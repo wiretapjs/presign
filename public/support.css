@@ -1,0 +1,18 @@
+.no-support {
+  background-color: #fff;
+  font-size: 14pt;
+  left: 0;
+  line-height: 1.4;
+  margin: 0 auto;
+  overflow: scroll;
+  padding: 1em;
+  position: absolute;
+  position: fixed !important;
+  top: 0;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}

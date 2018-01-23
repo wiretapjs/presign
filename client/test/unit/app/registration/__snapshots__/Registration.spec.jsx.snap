@@ -1,0 +1,888 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Registration should render correctly with loading animation 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <CoreLayout>
+    <div>
+      <styled.div
+        style={
+          Object {
+            "fontFamily": "Roboto, sans-serif",
+          }
+        }
+      >
+        <div>
+          <div
+            style={
+              Object {
+                "paddingBottom": 10,
+                "paddingTop": 10,
+                "textAlign": "center",
+              }
+            }
+          >
+            <Logo
+              src="LMI-logo.png"
+            />
+          </div>
+          <styled.div>
+            <div
+              style={
+                Object {
+                  "textAlign": "left",
+                }
+              }
+            >
+              <styled.div>
+                Get set up and on your way in a few simple steps!
+              </styled.div>
+              <styled.div>
+                Create your account online
+              </styled.div>
+              <RegistrationLoading />
+            </div>
+          </styled.div>
+          <div
+            style={
+              Object {
+                "color": "#969696",
+                "fontSize": 10,
+                "marginTop": 15,
+                "textAlign": "center",
+              }
+            }
+          >
+            We only use this information to securely verify your identity. Liberty Mutual respects your privacy and will not share your information.
+          </div>
+        </div>
+      </styled.div>
+    </div>
+  </CoreLayout>,
+  "nodes": Array [
+    <CoreLayout>
+      <div>
+        <styled.div
+          style={
+            Object {
+              "fontFamily": "Roboto, sans-serif",
+            }
+          }
+        >
+          <div>
+            <div
+              style={
+                Object {
+                  "paddingBottom": 10,
+                  "paddingTop": 10,
+                  "textAlign": "center",
+                }
+              }
+            >
+              <Logo
+                src="LMI-logo.png"
+              />
+            </div>
+            <styled.div>
+              <div
+                style={
+                  Object {
+                    "textAlign": "left",
+                  }
+                }
+              >
+                <styled.div>
+                  Get set up and on your way in a few simple steps!
+                </styled.div>
+                <styled.div>
+                  Create your account online
+                </styled.div>
+                <RegistrationLoading />
+              </div>
+            </styled.div>
+            <div
+              style={
+                Object {
+                  "color": "#969696",
+                  "fontSize": 10,
+                  "marginTop": 15,
+                  "textAlign": "center",
+                }
+              }
+            >
+              We only use this information to securely verify your identity. Liberty Mutual respects your privacy and will not share your information.
+            </div>
+          </div>
+        </styled.div>
+      </div>
+    </CoreLayout>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 0,
+      "_context": Object {},
+      "_currentElement": <Registration />,
+      "_debugID": 1,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": Registration {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {},
+        "refs": Object {},
+        "state": Object {
+          "displaySsn": true,
+          "emailAddress": null,
+          "showEmailError": false,
+          "showLoading": true,
+        },
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 1,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <CoreLayout>
+          <div>
+            <styled.div
+              style={
+                Object {
+                  "fontFamily": "Roboto, sans-serif",
+                }
+              }
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "paddingBottom": 10,
+                      "paddingTop": 10,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  <Logo
+                    src="LMI-logo.png"
+                  />
+                </div>
+                <styled.div>
+                  <div
+                    style={
+                      Object {
+                        "textAlign": "left",
+                      }
+                    }
+                  >
+                    <styled.div>
+                      Get set up and on your way in a few simple steps!
+                    </styled.div>
+                    <styled.div>
+                      Create your account online
+                    </styled.div>
+                    <RegistrationLoading />
+                  </div>
+                </styled.div>
+                <div
+                  style={
+                    Object {
+                      "color": "#969696",
+                      "fontSize": 10,
+                      "marginTop": 15,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  We only use this information to securely verify your identity. Liberty Mutual respects your privacy and will not share your information.
+                </div>
+              </div>
+            </styled.div>
+          </div>
+        </CoreLayout>,
+        "_debugID": 2,
+        "_renderedOutput": <CoreLayout>
+          <div>
+            <styled.div
+              style={
+                Object {
+                  "fontFamily": "Roboto, sans-serif",
+                }
+              }
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "paddingBottom": 10,
+                      "paddingTop": 10,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  <Logo
+                    src="LMI-logo.png"
+                  />
+                </div>
+                <styled.div>
+                  <div
+                    style={
+                      Object {
+                        "textAlign": "left",
+                      }
+                    }
+                  >
+                    <styled.div>
+                      Get set up and on your way in a few simple steps!
+                    </styled.div>
+                    <styled.div>
+                      Create your account online
+                    </styled.div>
+                    <RegistrationLoading />
+                  </div>
+                </styled.div>
+                <div
+                  style={
+                    Object {
+                      "color": "#969696",
+                      "fontSize": 10,
+                      "marginTop": 15,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  We only use this information to securely verify your identity. Liberty Mutual respects your privacy and will not share your information.
+                </div>
+              </div>
+            </styled.div>
+          </div>
+        </CoreLayout>,
+      },
+      "_renderedNodeType": 1,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Registration />,
+}
+`;
+
+exports[`Registration should render correctly without loading animation 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <CoreLayout>
+    <div>
+      <styled.div
+        style={
+          Object {
+            "fontFamily": "Roboto, sans-serif",
+          }
+        }
+      >
+        <div>
+          <div
+            style={
+              Object {
+                "paddingBottom": 10,
+                "paddingTop": 10,
+                "textAlign": "center",
+              }
+            }
+          >
+            <Logo
+              src="LMI-logo.png"
+            />
+          </div>
+          <styled.div>
+            <div
+              style={
+                Object {
+                  "textAlign": "left",
+                }
+              }
+            >
+              <styled.div>
+                Get set up and on your way in a few simple steps!
+              </styled.div>
+              <styled.div>
+                Create your account online
+              </styled.div>
+              <RegistrationFormComponent
+                displaySsn={true}
+                emailAddress={null}
+                showEmailError={false}
+                showLoading={false}
+              />
+            </div>
+          </styled.div>
+          <div
+            style={
+              Object {
+                "color": "#969696",
+                "fontSize": 10,
+                "marginTop": 15,
+                "textAlign": "center",
+              }
+            }
+          >
+            We only use this information to securely verify your identity. Liberty Mutual respects your privacy and will not share your information.
+          </div>
+        </div>
+      </styled.div>
+    </div>
+  </CoreLayout>,
+  "nodes": Array [
+    <CoreLayout>
+      <div>
+        <styled.div
+          style={
+            Object {
+              "fontFamily": "Roboto, sans-serif",
+            }
+          }
+        >
+          <div>
+            <div
+              style={
+                Object {
+                  "paddingBottom": 10,
+                  "paddingTop": 10,
+                  "textAlign": "center",
+                }
+              }
+            >
+              <Logo
+                src="LMI-logo.png"
+              />
+            </div>
+            <styled.div>
+              <div
+                style={
+                  Object {
+                    "textAlign": "left",
+                  }
+                }
+              >
+                <styled.div>
+                  Get set up and on your way in a few simple steps!
+                </styled.div>
+                <styled.div>
+                  Create your account online
+                </styled.div>
+                <RegistrationFormComponent
+                  displaySsn={true}
+                  emailAddress={null}
+                  showEmailError={false}
+                  showLoading={false}
+                />
+              </div>
+            </styled.div>
+            <div
+              style={
+                Object {
+                  "color": "#969696",
+                  "fontSize": 10,
+                  "marginTop": 15,
+                  "textAlign": "center",
+                }
+              }
+            >
+              We only use this information to securely verify your identity. Liberty Mutual respects your privacy and will not share your information.
+            </div>
+          </div>
+        </styled.div>
+      </div>
+    </CoreLayout>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 0,
+      "_context": Object {},
+      "_currentElement": <Registration />,
+      "_debugID": 3,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": Registration {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {},
+        "refs": Object {},
+        "state": Object {
+          "displaySsn": true,
+          "emailAddress": null,
+          "showEmailError": false,
+          "showLoading": false,
+        },
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 2,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <CoreLayout>
+          <div>
+            <styled.div
+              style={
+                Object {
+                  "fontFamily": "Roboto, sans-serif",
+                }
+              }
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "paddingBottom": 10,
+                      "paddingTop": 10,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  <Logo
+                    src="LMI-logo.png"
+                  />
+                </div>
+                <styled.div>
+                  <div
+                    style={
+                      Object {
+                        "textAlign": "left",
+                      }
+                    }
+                  >
+                    <styled.div>
+                      Get set up and on your way in a few simple steps!
+                    </styled.div>
+                    <styled.div>
+                      Create your account online
+                    </styled.div>
+                    <RegistrationFormComponent
+                      displaySsn={true}
+                      emailAddress={null}
+                      showEmailError={false}
+                      showLoading={false}
+                    />
+                  </div>
+                </styled.div>
+                <div
+                  style={
+                    Object {
+                      "color": "#969696",
+                      "fontSize": 10,
+                      "marginTop": 15,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  We only use this information to securely verify your identity. Liberty Mutual respects your privacy and will not share your information.
+                </div>
+              </div>
+            </styled.div>
+          </div>
+        </CoreLayout>,
+        "_debugID": 4,
+        "_renderedOutput": <CoreLayout>
+          <div>
+            <styled.div
+              style={
+                Object {
+                  "fontFamily": "Roboto, sans-serif",
+                }
+              }
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "paddingBottom": 10,
+                      "paddingTop": 10,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  <Logo
+                    src="LMI-logo.png"
+                  />
+                </div>
+                <styled.div>
+                  <div
+                    style={
+                      Object {
+                        "textAlign": "left",
+                      }
+                    }
+                  >
+                    <styled.div>
+                      Get set up and on your way in a few simple steps!
+                    </styled.div>
+                    <styled.div>
+                      Create your account online
+                    </styled.div>
+                    <RegistrationFormComponent
+                      displaySsn={true}
+                      emailAddress={null}
+                      showEmailError={false}
+                      showLoading={false}
+                    />
+                  </div>
+                </styled.div>
+                <div
+                  style={
+                    Object {
+                      "color": "#969696",
+                      "fontSize": 10,
+                      "marginTop": 15,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  We only use this information to securely verify your identity. Liberty Mutual respects your privacy and will not share your information.
+                </div>
+              </div>
+            </styled.div>
+          </div>
+        </CoreLayout>,
+      },
+      "_renderedNodeType": 1,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Registration />,
+}
+`;
+
+exports[`Registration should show error when mounted if token lookup fails 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <CoreLayout>
+    <div>
+      <styled.div
+        style={
+          Object {
+            "fontFamily": "Roboto, sans-serif",
+          }
+        }
+      >
+        <div>
+          <div
+            style={
+              Object {
+                "paddingBottom": 10,
+                "paddingTop": 10,
+                "textAlign": "center",
+              }
+            }
+          >
+            <Logo
+              src="LMI-logo.png"
+            />
+          </div>
+          <styled.div>
+            <div
+              style={
+                Object {
+                  "textAlign": "left",
+                }
+              }
+            >
+              <styled.div>
+                Get set up and on your way in a few simple steps!
+              </styled.div>
+              <styled.div>
+                Create your account online
+              </styled.div>
+              <RegistrationLoading />
+            </div>
+          </styled.div>
+          <div
+            style={
+              Object {
+                "color": "#969696",
+                "fontSize": 10,
+                "marginTop": 15,
+                "textAlign": "center",
+              }
+            }
+          >
+            We only use this information to securely verify your identity. Liberty Mutual respects your privacy and will not share your information.
+          </div>
+        </div>
+      </styled.div>
+    </div>
+  </CoreLayout>,
+  "nodes": Array [
+    <CoreLayout>
+      <div>
+        <styled.div
+          style={
+            Object {
+              "fontFamily": "Roboto, sans-serif",
+            }
+          }
+        >
+          <div>
+            <div
+              style={
+                Object {
+                  "paddingBottom": 10,
+                  "paddingTop": 10,
+                  "textAlign": "center",
+                }
+              }
+            >
+              <Logo
+                src="LMI-logo.png"
+              />
+            </div>
+            <styled.div>
+              <div
+                style={
+                  Object {
+                    "textAlign": "left",
+                  }
+                }
+              >
+                <styled.div>
+                  Get set up and on your way in a few simple steps!
+                </styled.div>
+                <styled.div>
+                  Create your account online
+                </styled.div>
+                <RegistrationLoading />
+              </div>
+            </styled.div>
+            <div
+              style={
+                Object {
+                  "color": "#969696",
+                  "fontSize": 10,
+                  "marginTop": 15,
+                  "textAlign": "center",
+                }
+              }
+            >
+              We only use this information to securely verify your identity. Liberty Mutual respects your privacy and will not share your information.
+            </div>
+          </div>
+        </styled.div>
+      </div>
+    </CoreLayout>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 0,
+      "_context": Object {},
+      "_currentElement": <Registration />,
+      "_debugID": 7,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": Registration {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {},
+        "refs": Object {},
+        "state": Object {
+          "displaySsn": true,
+          "emailAddress": null,
+          "showEmailError": false,
+          "showLoading": true,
+        },
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 4,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <CoreLayout>
+          <div>
+            <styled.div
+              style={
+                Object {
+                  "fontFamily": "Roboto, sans-serif",
+                }
+              }
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "paddingBottom": 10,
+                      "paddingTop": 10,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  <Logo
+                    src="LMI-logo.png"
+                  />
+                </div>
+                <styled.div>
+                  <div
+                    style={
+                      Object {
+                        "textAlign": "left",
+                      }
+                    }
+                  >
+                    <styled.div>
+                      Get set up and on your way in a few simple steps!
+                    </styled.div>
+                    <styled.div>
+                      Create your account online
+                    </styled.div>
+                    <RegistrationLoading />
+                  </div>
+                </styled.div>
+                <div
+                  style={
+                    Object {
+                      "color": "#969696",
+                      "fontSize": 10,
+                      "marginTop": 15,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  We only use this information to securely verify your identity. Liberty Mutual respects your privacy and will not share your information.
+                </div>
+              </div>
+            </styled.div>
+          </div>
+        </CoreLayout>,
+        "_debugID": 8,
+        "_renderedOutput": <CoreLayout>
+          <div>
+            <styled.div
+              style={
+                Object {
+                  "fontFamily": "Roboto, sans-serif",
+                }
+              }
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "paddingBottom": 10,
+                      "paddingTop": 10,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  <Logo
+                    src="LMI-logo.png"
+                  />
+                </div>
+                <styled.div>
+                  <div
+                    style={
+                      Object {
+                        "textAlign": "left",
+                      }
+                    }
+                  >
+                    <styled.div>
+                      Get set up and on your way in a few simple steps!
+                    </styled.div>
+                    <styled.div>
+                      Create your account online
+                    </styled.div>
+                    <RegistrationLoading />
+                  </div>
+                </styled.div>
+                <div
+                  style={
+                    Object {
+                      "color": "#969696",
+                      "fontSize": 10,
+                      "marginTop": 15,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  We only use this information to securely verify your identity. Liberty Mutual respects your privacy and will not share your information.
+                </div>
+              </div>
+            </styled.div>
+          </div>
+        </CoreLayout>,
+      },
+      "_renderedNodeType": 1,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Registration />,
+}
+`;

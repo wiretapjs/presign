@@ -1,0 +1,224 @@
+{
+  "name": "welcome",
+  "description": "The Welcome Mat for I Just Bought a Policy",
+  "author": "Purple Parrots",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": "8.9.0",
+    "npm": "5.5.1"
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "~3.1.6",
+    "@storybook/addon-storyshots": "~3.1.7",
+    "@storybook/react": "~3.1.7",
+    "autoprefixer": "~7.1.0",
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^7.2.3",
+    "babel-jest": "^21.2.0",
+    "babel-loader": "~7.0.0",
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react-app": "^3.0.1",
+    "babel-runtime": "^6.23.0",
+    "case-sensitive-paths-webpack-plugin": "~1.1.4",
+    "chalk": "~1.1.3",
+    "config": "~1.26.1",
+    "cross-env": "~4.0.0",
+    "css-loader": "~0.28.1",
+    "dotenv": "~4.0.0",
+    "enzyme": "~2.9.1",
+    "eslint": "^4.16.0",
+    "eslint-config-esnext": "^1.6.0",
+    "eslint-config-react-app": "^1.0.5",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-config-standard-react": "^5.0.0",
+    "eslint-loader": "^1.7.1",
+    "eslint-plugin-flowtype": "^2.33.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^5.0.3",
+    "eslint-plugin-node": "^5.1.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-react": "^7.4.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "events": "~1.1.1",
+    "extract-text-webpack-plugin": "~2.1.0",
+    "fetch-mock": "~5.12.0",
+    "file-loader": "~0.11.1",
+    "formsy-material-ui": "~0.6.3",
+    "formsy-react": "~0.19.5",
+    "fs-extra": "~3.0.1",
+    "html-webpack-plugin": "~2.28.0",
+    "identity-obj-proxy": "~3.0.0",
+    "jest": "~21.2.1",
+    "jest-bamboo-formatter": "~1.0.1",
+    "jest-fetch-mock": "~1.2.1",
+    "lodash.isequal": "~4.5.0",
+    "material-ui": "~0.18.7",
+    "mobx": "~3.3.0",
+    "node-mocks-http": "~1.6.6",
+    "nodemon": "~1.12.1",
+    "npm-run-all": "~4.1.1",
+    "object-assign": "4.1.1",
+    "plato": "~1.7.0",
+    "pluralize": "~7.0.0",
+    "promise": "7.1.1",
+    "prop-types": "~15.5.10",
+    "query-string": "~5.0.0",
+    "react": "~15.6.1",
+    "react-autobind": "~1.0.6",
+    "react-dev-utils": "~3.0.2",
+    "react-dom": "~15.6.1",
+    "react-error-overlay": "~1.0.9",
+    "react-router-dom": "~4.2.2",
+    "react-tap-event-plugin": "~2.0.1",
+    "react-test-renderer": "~15.6.1",
+    "sha1": "~1.1.1",
+    "storybook-router": "~0.2.9",
+    "styled-components": "~2.1.2",
+    "supertest": "~3.0.0",
+    "sw-precache-webpack-plugin": "~0.9.1",
+    "url-loader": "~0.5.8",
+    "url-search-params": "~0.10.0",
+    "webpack": "~2.6.1",
+    "webpack-dev-server": "~2.4.5",
+    "webpack-manifest-plugin": "~1.1.0",
+    "whatwg-fetch": "~2.0.3"
+  },
+  "dependencies": {
+    "app-module-path": "~2.2.0",
+    "auto-bind": "~1.1.0",
+    "body-parser": "~1.18.2",
+    "commander": "~2.11.0",
+    "compression": "~1.7.1",
+    "cookie-parser": "~1.4.3",
+    "es6-error": "~4.0.2",
+    "express": "~4.15.4",
+    "http-status-codes": "~1.3.0",
+    "lmig--newrelic-cloud-foundry": "~1.1.1",
+    "lodash": "~4.17.4",
+    "lodash.merge": "~4.6.0",
+    "morgan": "~1.8.2",
+    "newrelic": "~2.2.1",
+    "path": "~0.12.7",
+    "pino": "~4.10.2",
+    "react-timeout": "~1.0.1",
+    "react-transition-group": "~2.2.1",
+    "request": "~2.83.0",
+    "url-parse": "~1.1.9",
+    "uuid": "~3.1.0",
+    "validator": "~9.2.0",
+    "winston": "~2.3.1"
+  },
+  "proxy": {
+    "/PmInternetAccountServiceWeb": {
+      "target": "http://localhost:3001",
+      "ws": true
+    },
+    "/api/*": {
+      "target": "http://localhost:3001",
+      "ws": true
+    }
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "start:dev": "run-p \"start:dev:* -- --env {1}\" --",
+    "start:dev:server": "nodemon sever/index.js",
+    "start:dev:app": "node scripts/start.js",
+    "start-js": "node scripts/start.js",
+    "dev": "cross-env REACT_APP_MOCK_API=true npm start",
+    "build": "node scripts/build.js",
+    "test": "node scripts/test.js --env=jsdom",
+    "update-snapshots": "node scripts/test.js --env=jsdom --updateSnapshot",
+    "test-and-build": "CI=true npm run build && npm run test:process-results -- --no-cache && npm run lint",
+    "test:process-results": "npm test -- --verbose --coverage --testResultsProcessor=jest-bamboo-formatter",
+    "test:quick": "npm test -- --verbose",
+    "lint": "eslint --ext .js --ext .jsx client server",
+    "storybook": "start-storybook -p 9009 -s public",
+    "build-storybook": "build-storybook -s public",
+    "lint:fix": "eslint --fix --ext .js --ext .jsx client server",
+    "analyze": "plato -r -d metrics server/* client/*"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "jest": {
+    "moduleDirectories": [
+      "node_modules",
+      "client",
+      "server"
+    ],
+    "collectCoverageFrom": [
+      "client/**/*.{js,jsx}",
+      "server/**/*.{js,jsx}",
+      "!server/index.js",
+      "!**/build/**",
+      "!**/config/**",
+      "!**/coverage/**",
+      "!**/node_modules/**",
+      "!**/scripts/**",
+      "!client/index.js",
+      "!client/test/**",
+      "!server/test/**"
+    ],
+    "setupFiles": [
+      "<rootDir>/config/polyfills.js"
+    ],
+    "testMatch": [
+      "<rootDir>/client/**/?(*.)(spec|test|tests).js?(x)",
+      "<rootDir>/server/**/?(*.)(spec|test|tests).js?(x)"
+    ],
+    "testEnvironment": "node",
+    "testURL": "http://localhost",
+    "transform": {
+      "^.+\\.(js|jsx)$": "<rootDir>/node_modules/babel-jest",
+      "^(?!.*\\.(js|jsx|css|json)$)": "<rootDir>/config/jest/fileTransform.js"
+    },
+    "transformIgnorePatterns": [
+      "[/\\\\]node_modules[/\\\\].+\\.(js|jsx)$"
+    ],
+    "moduleNameMapper": {
+      "^react-native$": "react-native-web",
+      "^.+\\.(css|scss)$": "identity-obj-proxy"
+    },
+    "coverageThreshold": {
+      "global": {
+        "branches": 75,
+        "functions": 75,
+        "lines": 75,
+        "statements": 75
+      }
+    }
+  },
+  "babel": {
+    "presets": [
+      "react",
+      [
+        "env",
+        {
+          "targets": {
+            "browsers": [
+              "Chrome >= 37",
+              "Explorer >= 11",
+              "iOS >= 9",
+              "ChromeAndroid >= 30",
+              "Firefox >= 38",
+              "Edge >= 13",
+              "Safari >= 9",
+              "Samsung >= 4"
+            ]
+          }
+        }
+      ]
+    ],
+    "plugins": [
+      "transform-object-rest-spread",
+      "transform-decorators-legacy",
+      "transform-async-to-generator",
+      "transform-class-properties"
+    ]
+  }
+}

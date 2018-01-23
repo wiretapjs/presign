@@ -1,0 +1,205 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer should render correctly 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <styled.div>
+    <styled.div>
+      <styled.a
+        href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138362980102"
+      >
+        Privacy Policy
+      </styled.a>
+       | 
+      <styled.a
+        href="http://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1240002784964"
+      >
+        Security Policy
+      </styled.a>
+       | 
+      <styled.a
+        href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366154501"
+      >
+        Terms & Conditions
+      </styled.a>
+       | 
+      <styled.a
+        href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366406840"
+      >
+        Fraud Protection
+      </styled.a>
+       | 
+      <styled.a
+        href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+      >
+        eService & Paperless Terms & Conditions
+      </styled.a>
+    </styled.div>
+    <styled.div>
+      © 2017 Liberty Mutual Insurance Company, 175 Berkeley Street, Boston, MA 02116
+    </styled.div>
+  </styled.div>,
+  "nodes": Array [
+    <styled.div>
+      <styled.div>
+        <styled.a
+          href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138362980102"
+        >
+          Privacy Policy
+        </styled.a>
+         | 
+        <styled.a
+          href="http://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1240002784964"
+        >
+          Security Policy
+        </styled.a>
+         | 
+        <styled.a
+          href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366154501"
+        >
+          Terms & Conditions
+        </styled.a>
+         | 
+        <styled.a
+          href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366406840"
+        >
+          Fraud Protection
+        </styled.a>
+         | 
+        <styled.a
+          href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+        >
+          eService & Paperless Terms & Conditions
+        </styled.a>
+      </styled.div>
+      <styled.div>
+        © 2017 Liberty Mutual Insurance Company, 175 Berkeley Street, Boston, MA 02116
+      </styled.div>
+    </styled.div>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 0,
+      "_context": Object {},
+      "_currentElement": <Footer />,
+      "_debugID": 1,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": Footer {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {},
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 1,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <styled.div>
+          <styled.div>
+            <styled.a
+              href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138362980102"
+            >
+              Privacy Policy
+            </styled.a>
+             | 
+            <styled.a
+              href="http://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1240002784964"
+            >
+              Security Policy
+            </styled.a>
+             | 
+            <styled.a
+              href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366154501"
+            >
+              Terms & Conditions
+            </styled.a>
+             | 
+            <styled.a
+              href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366406840"
+            >
+              Fraud Protection
+            </styled.a>
+             | 
+            <styled.a
+              href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+            >
+              eService & Paperless Terms & Conditions
+            </styled.a>
+          </styled.div>
+          <styled.div>
+            © 2017 Liberty Mutual Insurance Company, 175 Berkeley Street, Boston, MA 02116
+          </styled.div>
+        </styled.div>,
+        "_debugID": 2,
+        "_renderedOutput": <styled.div>
+          <styled.div>
+            <styled.a
+              href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138362980102"
+            >
+              Privacy Policy
+            </styled.a>
+             | 
+            <styled.a
+              href="http://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1240002784964"
+            >
+              Security Policy
+            </styled.a>
+             | 
+            <styled.a
+              href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366154501"
+            >
+              Terms & Conditions
+            </styled.a>
+             | 
+            <styled.a
+              href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366406840"
+            >
+              Fraud Protection
+            </styled.a>
+             | 
+            <styled.a
+              href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+            >
+              eService & Paperless Terms & Conditions
+            </styled.a>
+          </styled.div>
+          <styled.div>
+            © 2017 Liberty Mutual Insurance Company, 175 Berkeley Street, Boston, MA 02116
+          </styled.div>
+        </styled.div>,
+      },
+      "_renderedNodeType": 1,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Footer />,
+}
+`;

@@ -1,0 +1,28 @@
+{
+  "presets": [
+    "react",
+    [
+      "env",
+      {
+        "targets": {
+          "browsers": [
+            "Chrome >= 37",
+            "Explorer >= 10",
+            "iOS >= 9",
+            "ChromeAndroid >= 30",
+            "Firefox >= 38",
+            "Edge >= 13",
+            "Safari >= 9",
+            "Samsung >= 4"
+          ]
+        }
+      }
+    ]
+  ],
+  "plugins": [
+    "transform-object-rest-spread",
+    "transform-decorators-legacy",
+    "transform-async-to-generator",
+    "transform-class-properties"
+  ]
+}

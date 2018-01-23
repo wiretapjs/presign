@@ -1,0 +1,20 @@
+---
+applications:
+  - name: welcome
+    buildpack: nodejs_current
+    command: npm start
+    routes:
+      - route: welcome-insurance-development.us-east-1.np.paas.lmig.com
+      - route: welcome-insurance-development.libertymutual.com
+    instances: 1
+    memory: 768M
+    timeout: 180
+    env:
+      NEW_RELIC_APP_NAME: welcome-insurance-development
+      APP_ENVIRONMENT: development
+      NODE_ENV: production
+    services:
+      - ijbappresign-development-keys
+      - logging
+      - welcome-datahub-logging
+      - newrelic

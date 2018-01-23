@@ -1,0 +1,5666 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots AlreadyRegisteredError default 1`] = `
+<div>
+  <div>
+    We see you may already have an online account.
+  </div>
+  <div>
+    Please 
+    <a
+      className="sc-dxgOiQ dJhdWC"
+      href="https://uat-service.libertymutual.com/PmInternetContentServiceWeb/insurance/url?uri=esign"
+      id="already-registered-sign-in-link"
+    >
+      Sign In
+    </a>
+     to continue.
+  </div>
+</div>
+`;
+
+exports[`Storyshots Background with color and no image 1`] = `
+<div
+  className="sc-gojNiO iJmcDi"
+  src=""
+/>
+`;
+
+exports[`Storyshots Background with color and src image 1`] = `
+<div
+  className="sc-daURTG kZGcJX"
+  src="welcome_background.jpg"
+/>
+`;
+
+exports[`Storyshots Background with no src image 1`] = `
+<div
+  className="sc-exAgwC loMIxv"
+  src=""
+/>
+`;
+
+exports[`Storyshots Background with src image and no color 1`] = `
+<div
+  className="sc-cQFLBn jfArtB"
+  src="welcome_background.jpg"
+/>
+`;
+
+exports[`Storyshots BaseMarkup default 1`] = `
+<div
+  style={
+    Object {
+      "width": "100%",
+    }
+  }
+>
+  <h1
+    className="sc-caSCKo itbKyi"
+  >
+    Awesome job!
+  </h1>
+  <h2
+    className="sc-gisBJw fuUIks"
+  >
+    <img
+      className="sc-kjoXOD bVKeqB"
+      src="yellow-check.png"
+    />
+    You just bought a policy
+  </h2>
+  <p
+    className="sc-cHGsZl cILbJE"
+  >
+    We know better insurance starts with great first impressions. That’s why we’re committed to helping you every step of the way and to ensuring we’re providing the best experience possible.
+  </p>
+  <p
+    className="sc-cHGsZl cILbJE"
+  >
+    We want to sincerely thank you for choosing Liberty Mutual and warmly welcome you to the family.
+  </p>
+  <h3
+    className="sc-TOsTZ ezzMjT"
+  >
+    Time to make it official!
+  </h3>
+</div>
+`;
+
+exports[`Storyshots Button renders 1`] = `
+<button
+  className="sc-bRBYWo gwDiwx"
+  disabled={false}
+  onClick={[Function]}
+>
+  AGREE & CONTINUE
+</button>
+`;
+
+exports[`Storyshots Button with a label 1`] = `
+<button
+  className="sc-bdVaJa cIRlVh"
+  dangerouslySetInnerHTML={
+    Object {
+      "__html": "test",
+    }
+  }
+  data-heap-id={undefined}
+  onClick={[Function]}
+/>
+`;
+
+exports[`Storyshots Button with no label 1`] = `
+<button
+  className="sc-bdVaJa cIRlVh"
+  dangerouslySetInnerHTML={
+    Object {
+      "__html": undefined,
+    }
+  }
+  data-heap-id={undefined}
+  onClick={[Function]}
+/>
+`;
+
+exports[`Storyshots Card renders as expected 1`] = `
+<div
+  className="sc-bXGyLb kEOHzN"
+/>
+`;
+
+exports[`Storyshots Confirmation when data is loading 1`] = `
+<div>
+  <div
+    className="sc-jqCOkK eGbrny"
+    src=""
+  >
+    <div
+      className="sc-uJMKN kYIyOt"
+    >
+      Non-production environment (localhost)
+    </div>
+    <div>
+      <div
+        className="sc-htpNat hVhLFx"
+      >
+        <div
+          className="sc-bxivhb gthmdb"
+        >
+          <img
+            className="sc-bbmXgH eXwnwN"
+            src="LMI-logo.png"
+          />
+        </div>
+      </div>
+      <div
+        className="sc-EHOje fDHsUg"
+      >
+        <h1
+          className="sc-bZQynM fryhpG"
+        >
+          You're all set!
+        </h1>
+        <p
+          className="sc-kGXeez dcGCVL"
+        >
+          Now see what your online account can do for you.
+        </p>
+        <a
+          href="https://uat-service.libertymutual.com/PmInternetContentServiceWeb/insurance/url?dest=welcome&uri=esign"
+        >
+          <button
+            className="sc-kpOJdX nvtkx"
+            disabled={true}
+            label="EXPLORE YOUR ACCOUNT"
+          >
+            LOADING...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      className="sc-dnqmqq kAmxKY"
+    >
+      <div
+        className="sc-iwsKbI dxSJnn"
+      >
+        <a
+          className="sc-gZMcBi dahmGY"
+          href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138362980102"
+        >
+          Privacy Policy
+        </a>
+         | 
+        <a
+          className="sc-gZMcBi dahmGY"
+          href="http://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1240002784964"
+        >
+          Security Policy
+        </a>
+         | 
+        <a
+          className="sc-gZMcBi dahmGY"
+          href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366154501"
+        >
+          Terms & Conditions
+        </a>
+         | 
+        <a
+          className="sc-gZMcBi dahmGY"
+          href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366406840"
+        >
+          Fraud Protection
+        </a>
+         | 
+        <a
+          className="sc-gZMcBi dahmGY"
+          href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+        >
+          eService & Paperless Terms & Conditions
+        </a>
+      </div>
+      <div
+        className="sc-iwsKbI dxSJnn"
+      >
+        © 2017 Liberty Mutual Insurance Company, 175 Berkeley Street, Boston, MA 02116
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Confirmation when data is not loading 1`] = `
+<div>
+  <div
+    className="sc-gGBfsJ hoFWid"
+    src=""
+  >
+    <div
+      className="sc-jnlKLf gOvddE"
+    >
+      Non-production environment (localhost)
+    </div>
+    <div>
+      <div
+        className="sc-htpNat hVhLFx"
+      >
+        <div
+          className="sc-bxivhb gthmdb"
+        >
+          <img
+            className="sc-fYxtnH gkemA"
+            src="LMI-logo.png"
+          />
+        </div>
+      </div>
+      <div
+        className="sc-EHOje fDHsUg"
+      >
+        <h1
+          className="sc-bZQynM fryhpG"
+        >
+          You're all set!
+        </h1>
+        <p
+          className="sc-kGXeez dcGCVL"
+        >
+          Now see what your online account can do for you.
+        </p>
+        <a
+          href="https://uat-service.libertymutual.com/PmInternetContentServiceWeb/insurance/url?dest=welcome&uri=esign"
+        >
+          <button
+            className="sc-kpOJdX nvtkx"
+            disabled={false}
+            label="EXPLORE YOUR ACCOUNT"
+          >
+            EXPLORE YOUR ACCOUNT
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      className="sc-dnqmqq kAmxKY"
+    >
+      <div
+        className="sc-iwsKbI dxSJnn"
+      >
+        <a
+          className="sc-gZMcBi dahmGY"
+          href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138362980102"
+        >
+          Privacy Policy
+        </a>
+         | 
+        <a
+          className="sc-gZMcBi dahmGY"
+          href="http://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1240002784964"
+        >
+          Security Policy
+        </a>
+         | 
+        <a
+          className="sc-gZMcBi dahmGY"
+          href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366154501"
+        >
+          Terms & Conditions
+        </a>
+         | 
+        <a
+          className="sc-gZMcBi dahmGY"
+          href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366406840"
+        >
+          Fraud Protection
+        </a>
+         | 
+        <a
+          className="sc-gZMcBi dahmGY"
+          href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+        >
+          eService & Paperless Terms & Conditions
+        </a>
+      </div>
+      <div
+        className="sc-iwsKbI dxSJnn"
+      >
+        © 2017 Liberty Mutual Insurance Company, 175 Berkeley Street, Boston, MA 02116
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots ContentContainer renders as expected 1`] = `
+<div
+  className="sc-gHboQg jugTtG"
+>
+  Some text
+</div>
+`;
+
+exports[`Storyshots Document  1`] = `
+<div
+  className="sc-tilXH noXTl"
+  src=""
+>
+  <div
+    className="sc-hEsumM cfhzAJ"
+  >
+    Non-production environment (localhost)
+  </div>
+  <div
+    className="sc-gPEVay gSArlX"
+  >
+    <div
+      className="sc-cMljjf cuhERF"
+    >
+      <div
+        className="sc-htpNat hVhLFx"
+      >
+        <div
+          className="sc-bxivhb gthmdb"
+        >
+          <img
+            className="sc-ktHwxA jYGpNj"
+            src="LMI-logo.png"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-jAaTju dtGIbi"
+    >
+      <h1
+        className="sc-bZQynM fryhpG"
+      >
+         Let's sign your policy documents 
+      </h1>
+    </div>
+    <div
+      className="sc-jDwBTQ dJghYi"
+    >
+      <div
+        className="sc-brqgnP tzFvh"
+      >
+        <div
+          className="sc-eHgmQL hByqXH"
+          onClick={[Function]}
+        >
+          Can't see your documents?
+        </div>
+      </div>
+      <div
+        className="sc-jWBwVP gRwvNN"
+        onClick={[Function]}
+      >
+        <div
+          className="sc-eHgmQL hByqXH"
+          onClick={[Function]}
+        >
+          Need help?
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iRbamj ceLVGd"
+    >
+      <div
+        className="sc-ckVGcZ bqMpMp"
+      >
+        Loading...
+      </div>
+    </div>
+    <div
+      className="sc-dnqmqq kAmxKY"
+    >
+      <div
+        className="sc-iwsKbI dxSJnn"
+      >
+        <a
+          className="sc-gZMcBi dahmGY"
+          href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138362980102"
+        >
+          Privacy Policy
+        </a>
+         | 
+        <a
+          className="sc-gZMcBi dahmGY"
+          href="http://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1240002784964"
+        >
+          Security Policy
+        </a>
+         | 
+        <a
+          className="sc-gZMcBi dahmGY"
+          href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366154501"
+        >
+          Terms & Conditions
+        </a>
+         | 
+        <a
+          className="sc-gZMcBi dahmGY"
+          href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366406840"
+        >
+          Fraud Protection
+        </a>
+         | 
+        <a
+          className="sc-gZMcBi dahmGY"
+          href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+        >
+          eService & Paperless Terms & Conditions
+        </a>
+      </div>
+      <div
+        className="sc-iwsKbI dxSJnn"
+      >
+        © 2017 Liberty Mutual Insurance Company, 175 Berkeley Street, Boston, MA 02116
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots EnvironmentWatermark within a non-production environment (e.g. localhost) 1`] = `
+<div
+  className="sc-lkqHmb kiZZtU"
+>
+  Non-production environment (localhost)
+</div>
+`;
+
+exports[`Storyshots EnvironmentWatermark within the production environment 1`] = `
+<div>
+  <div>
+    This page intentionally left blank.
+  </div>
+</div>
+`;
+
+exports[`Storyshots EsignIframe load any website on to iFrame 1`] = `
+<div
+  className="sc-jTzLTM kgWAaw"
+>
+  <div
+    className="sc-fjdhpX IEmwA"
+  >
+     Loading... 
+  </div>
+  <iframe
+    className="sc-VigVT hTHzKU"
+    frameBorder="0"
+    onLoad={[Function]}
+    src="https://www.libertymutual.com"
+  />
+</div>
+`;
+
+exports[`Storyshots Header with 100px of padding 1`] = `
+<div
+  className="sc-htpNat hVhLFx"
+>
+  <div
+    className="sc-bxivhb kFCzzi"
+  >
+    <img
+      className="sc-fYiAbW cacNhs"
+      src="LMI-logo.png"
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Header with automatic padding 1`] = `
+<div
+  className="sc-htpNat hVhLFx"
+>
+  <div
+    className="sc-bxivhb gthmdb"
+  >
+    <img
+      className="sc-krvtoX hQPoUP"
+      src="LMI-logo.png"
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Header with no padding 1`] = `
+<div
+  className="sc-htpNat hVhLFx"
+>
+  <div
+    className="sc-bxivhb dzWvco"
+  >
+    <img
+      className="sc-cbkKFq lbYEzV"
+      src="LMI-logo.png"
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots HelpLink renders link 1`] = `
+<div>
+  <div
+    className="sc-jWBwVP gRwvNN"
+    onClick={[Function]}
+  >
+    <div
+      className="sc-eHgmQL hByqXH"
+      onClick={[Function]}
+    >
+      Need help?
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots HelpMessage renders as expected 1`] = `
+<div
+  className="sc-kgoBCf bGQVmK"
+>
+  <div
+    className="sc-jzJRlG kYxDEc"
+  >
+    <div
+      className="sc-cSHVUG gxsuOv"
+    >
+      We’re here to help. Please don’t hesitate to call us if you have any questions or concerns.
+    </div>
+    <div
+      className="sc-cSHVUG gxsuOv"
+    >
+      1-888-398-8924
+    </div>
+    <div
+      className="sc-chPdSV iMivNK"
+    />
+  </div>
+  <div
+    className="sc-kAzzGY eVZXSj"
+  />
+</div>
+`;
+
+exports[`Storyshots LegalText renders with text 1`] = `
+<div
+  className="sc-ifAKCX Yggjp"
+>
+  Don't do illegal stuff
+</div>
+`;
+
+exports[`Storyshots Logo with no src image 1`] = `
+<img
+  className="sc-fOKMvo jksETm"
+  src={undefined}
+/>
+`;
+
+exports[`Storyshots Logo with src image 1`] = `
+<img
+  className="sc-dUjcNx kNKKcZ"
+  src="LMI-logo.png"
+/>
+`;
+
+exports[`Storyshots MainContainer with 100px of padding 1`] = `
+<div
+  className="sc-EHOje bxTJgZ"
+>
+  This is the main container
+  <ul>
+    Test
+    <li>
+      <span>
+         1 
+      </span>
+    </li>
+    <li>
+      <span>
+         2 
+      </span>
+    </li>
+    <li>
+      <span>
+         3 
+      </span>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Storyshots MainContainer with default padding 1`] = `
+<div
+  className="sc-EHOje fDHsUg"
+>
+  This is the main container
+  <ul>
+    Test
+    <li>
+      <span>
+         1 
+      </span>
+    </li>
+    <li>
+      <span>
+         2 
+      </span>
+    </li>
+    <li>
+      <span>
+         3 
+      </span>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Storyshots MainContainer with no padding 1`] = `
+<div
+  className="sc-EHOje gvILEa"
+>
+  This is the main container
+  <ul>
+    Test
+    <li>
+      <span>
+         1 
+      </span>
+    </li>
+    <li>
+      <span>
+         2 
+      </span>
+    </li>
+    <li>
+      <span>
+         3 
+      </span>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Storyshots MainTitle renders as expected 1`] = `
+<h1
+  className="sc-bZQynM fryhpG"
+>
+  Give me my policies
+</h1>
+`;
+
+exports[`Storyshots MultipleSigners with false hasMultipleSigners passed 1`] = `null`;
+
+exports[`Storyshots MultipleSigners with true hasMultipleSigners passed 1`] = `
+<li
+  className="sc-eqIVtm bOGerh"
+>
+  <span>
+    All policy holders will have to sign
+  </span>
+</li>
+`;
+
+exports[`Storyshots MultipleSigners with undefined hasMultipleSigners passed 1`] = `null`;
+
+exports[`Storyshots NumberOfDocuments with integer numberOfEsignDocuments and numberOfPrintSignMailDocs passed 1`] = `
+<span>
+  <li
+    className="sc-eqIVtm bOGerh"
+  >
+    <span>
+      You have 
+      <strong>
+        5
+      </strong>
+       
+      documents
+       to sign in total
+    </span>
+  </li>
+  <li
+    className="sc-eqIVtm bOGerh"
+  >
+    <span>
+      You have 
+      <strong>
+        5
+      </strong>
+       
+      documents
+       to print, sign, and mail
+    </span>
+  </li>
+</span>
+`;
+
+exports[`Storyshots NumberOfDocuments with integer numberOfEsignDocuments passed 1`] = `
+<span>
+  <li
+    className="sc-eqIVtm bOGerh"
+  >
+    <span>
+      You have 
+      <strong>
+        5
+      </strong>
+       
+      documents
+       to sign in total
+    </span>
+  </li>
+</span>
+`;
+
+exports[`Storyshots NumberOfDocuments with integer numberOfPrintSignMailDocs passed 1`] = `
+<span>
+  <li
+    className="sc-eqIVtm bOGerh"
+  >
+    <span>
+      You have 
+      <strong>
+        5
+      </strong>
+       
+      documents
+       to print, sign, and mail
+    </span>
+  </li>
+</span>
+`;
+
+exports[`Storyshots NumberOfDocuments with non-integer numberOfEsignDocuments passed 1`] = `null`;
+
+exports[`Storyshots NumberOfDocuments with non-integer numberOfPrintSignMailDocs passed 1`] = `null`;
+
+exports[`Storyshots NumberOfDocuments with undefined numberOfEsignDocuments passed 1`] = `null`;
+
+exports[`Storyshots NumberOfDocuments with undefined numberOfPrintSignMailDocs passed 1`] = `null`;
+
+exports[`Storyshots Password Input default 1`] = `
+<form
+  noValidate={true}
+  onSubmit={[Function]}
+>
+  <div
+    style={
+      Object {
+        "position": "relative",
+      }
+    }
+  >
+    <div>
+      <div
+        className={undefined}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+            "border": "solid 1px #808080",
+            "borderRadius": "3px",
+            "cursor": "auto",
+            "display": "inline-block",
+            "fontFamily": "Roboto, sans-serif",
+            "fontSize": 16,
+            "height": 50,
+            "lineHeight": "24px",
+            "margin": "5px 0px",
+            "muiPrepared": true,
+            "padding": "0px 10px",
+            "position": "relative",
+            "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "width": "95%",
+          }
+        }
+      >
+        <label
+          className={undefined}
+          htmlFor="password"
+          onTouchTap={undefined}
+          style={
+            Object {
+              "color": "#808080",
+              "fontSize": 15,
+              "lineHeight": "22px",
+              "muiPrepared": true,
+              "pointerEvents": "none",
+              "position": "absolute",
+              "top": 15,
+              "transform": "scale(1) translate(0, 0)",
+              "transformOrigin": "left top",
+              "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+              "userSelect": "none",
+              "zIndex": 1,
+            }
+          }
+        >
+          Create Password
+        </label>
+        <input
+          disabled={false}
+          id="password"
+          name="password"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyPress={[Function]}
+          required={true}
+          style={
+            Object {
+              "WebkitOpacity": 1,
+              "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+              "appearance": "textfield",
+              "backgroundColor": "rgba(0,0,0,0)",
+              "border": "none",
+              "boxSizing": "border-box",
+              "color": "#404040",
+              "cursor": "inherit",
+              "font": "inherit",
+              "fontSize": 15,
+              "height": "100%",
+              "marginTop": 10,
+              "muiPrepared": true,
+              "outline": "none",
+              "padding": 0,
+              "position": "relative",
+              "width": "100%",
+            }
+          }
+          type="password"
+          value=""
+        />
+      </div>
+    </div>
+    <span
+      style={
+        Object {
+          "fontSize": 10,
+          "position": "absolute",
+          "right": 10,
+          "top": 17,
+        }
+      }
+    >
+      <a
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "#1B75BB",
+            "cursor": "pointer",
+          }
+        }
+      >
+        <span>
+          show
+        </span>
+      </a>
+    </span>
+  </div>
+</form>
+`;
+
+exports[`Storyshots Password Input with a visible password 1`] = `
+<form
+  noValidate={true}
+  onSubmit={[Function]}
+>
+  <div
+    style={
+      Object {
+        "position": "relative",
+      }
+    }
+  >
+    <div>
+      <div
+        className={undefined}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+            "border": "solid 1px #808080",
+            "borderRadius": "3px",
+            "cursor": "auto",
+            "display": "inline-block",
+            "fontFamily": "Roboto, sans-serif",
+            "fontSize": 16,
+            "height": 50,
+            "lineHeight": "24px",
+            "margin": "5px 0px",
+            "muiPrepared": true,
+            "padding": "0px 10px",
+            "position": "relative",
+            "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "width": "95%",
+          }
+        }
+      >
+        <label
+          className={undefined}
+          htmlFor="password"
+          onTouchTap={undefined}
+          style={
+            Object {
+              "color": "#808080",
+              "fontSize": 15,
+              "lineHeight": "22px",
+              "muiPrepared": true,
+              "pointerEvents": "none",
+              "position": "absolute",
+              "top": 15,
+              "transform": "scale(1) translate(0, 0)",
+              "transformOrigin": "left top",
+              "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+              "userSelect": "none",
+              "zIndex": 1,
+            }
+          }
+        >
+          Create Password
+        </label>
+        <input
+          disabled={false}
+          id="password"
+          name="password"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyPress={[Function]}
+          required={true}
+          style={
+            Object {
+              "WebkitOpacity": 1,
+              "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+              "appearance": "textfield",
+              "backgroundColor": "rgba(0,0,0,0)",
+              "border": "none",
+              "boxSizing": "border-box",
+              "color": "#404040",
+              "cursor": "inherit",
+              "font": "inherit",
+              "fontSize": 15,
+              "height": "100%",
+              "marginTop": 10,
+              "muiPrepared": true,
+              "outline": "none",
+              "padding": 0,
+              "position": "relative",
+              "width": "100%",
+            }
+          }
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+    <span
+      style={
+        Object {
+          "fontSize": 10,
+          "position": "absolute",
+          "right": 10,
+          "top": 17,
+        }
+      }
+    >
+      <a
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "#1B75BB",
+            "cursor": "pointer",
+          }
+        }
+      >
+        <span>
+          hide
+        </span>
+      </a>
+    </span>
+  </div>
+</form>
+`;
+
+exports[`Storyshots Password Input with disabled fields 1`] = `
+<form
+  noValidate={true}
+  onSubmit={[Function]}
+>
+  <div
+    style={
+      Object {
+        "position": "relative",
+      }
+    }
+  >
+    <div>
+      <div
+        className={undefined}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+            "border": "solid 1px #808080",
+            "borderRadius": "3px",
+            "cursor": "not-allowed",
+            "display": "inline-block",
+            "fontFamily": "Roboto, sans-serif",
+            "fontSize": 16,
+            "height": 50,
+            "lineHeight": "24px",
+            "margin": "5px 0px",
+            "muiPrepared": true,
+            "padding": "0px 10px",
+            "position": "relative",
+            "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "width": "95%",
+          }
+        }
+      >
+        <label
+          className={undefined}
+          htmlFor="password"
+          onTouchTap={undefined}
+          style={
+            Object {
+              "color": "#808080",
+              "fontSize": 15,
+              "lineHeight": "22px",
+              "muiPrepared": true,
+              "pointerEvents": "none",
+              "position": "absolute",
+              "top": 15,
+              "transform": "scale(1) translate(0, 0)",
+              "transformOrigin": "left top",
+              "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+              "userSelect": "none",
+              "zIndex": 1,
+            }
+          }
+        >
+          Create Password
+        </label>
+        <input
+          disabled={true}
+          id="password"
+          name="password"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyPress={[Function]}
+          required={true}
+          style={
+            Object {
+              "WebkitOpacity": 1,
+              "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+              "appearance": "textfield",
+              "backgroundColor": "rgba(0,0,0,0)",
+              "border": "none",
+              "boxSizing": "border-box",
+              "color": "#404040",
+              "cursor": "inherit",
+              "font": "inherit",
+              "fontSize": 15,
+              "height": "100%",
+              "marginTop": 10,
+              "muiPrepared": true,
+              "outline": "none",
+              "padding": 0,
+              "position": "relative",
+              "width": "100%",
+            }
+          }
+          type="password"
+          value=""
+        />
+      </div>
+    </div>
+    <span
+      style={
+        Object {
+          "fontSize": 10,
+          "position": "absolute",
+          "right": 10,
+          "top": 17,
+        }
+      }
+    >
+      <a
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "#1B75BB",
+            "cursor": "pointer",
+          }
+        }
+      >
+        <span>
+          show
+        </span>
+      </a>
+    </span>
+  </div>
+</form>
+`;
+
+exports[`Storyshots PolicyNumbers with multiple ceremonies passed 1`] = `
+<div>
+  <h2
+    className="sc-jhAzac eHHsRQ"
+  >
+    Your policies:
+  </h2>
+  <p
+    className="sc-fMiknA ikEAoj"
+  >
+    AOS-281-035633-40
+    <span>
+       -
+      <span
+        className="sc-Rmtcm jWxVvT"
+      >
+         
+        In Progress
+      </span>
+    </span>
+  </p>
+  <p
+    className="sc-fMiknA ikEAoj"
+  >
+    AOS-281-035633-40
+    <span>
+       -
+      <span
+        className="sc-gipzik lnMYYr"
+      >
+         
+        Completed
+      </span>
+    </span>
+  </p>
+  <p
+    className="sc-fMiknA ikEAoj"
+  >
+    AOS-281-035633-40
+    <span>
+       -
+      <span
+        className="sc-Rmtcm jWxVvT"
+      >
+         
+        In Progress
+      </span>
+    </span>
+  </p>
+  <p
+    className="sc-fMiknA ikEAoj"
+  >
+    AOS-281-035633-40
+    <span>
+       -
+      <span
+        className="sc-Rmtcm jWxVvT"
+      >
+         
+        Processing
+      </span>
+    </span>
+  </p>
+  <p
+    className="sc-fMiknA ikEAoj"
+  >
+    AOS-281-035633-40
+    <span>
+       -
+      <span
+        className="sc-Rmtcm jWxVvT"
+      >
+         
+        Processing
+      </span>
+    </span>
+  </p>
+  <p
+    className="sc-fMiknA ikEAoj"
+  >
+    AOS-281-035633-40
+    <span>
+       -
+      <span
+        className="sc-Rmtcm jWxVvT"
+      >
+         
+        In Progress
+      </span>
+    </span>
+  </p>
+  <p
+    className="sc-fMiknA ikEAoj"
+  >
+    AOS-281-035633-40
+    <span>
+       -
+      <span
+        className="sc-csuQGl cbmorM"
+      >
+         
+        Not Started
+      </span>
+    </span>
+  </p>
+</div>
+`;
+
+exports[`Storyshots PolicyNumbers with no ceremonies passed 1`] = `null`;
+
+exports[`Storyshots PolicyNumbers with one ceremony passed 1`] = `
+<div>
+  <h2
+    className="sc-jhAzac eHHsRQ"
+  >
+    Your policy:
+  </h2>
+  <p
+    className="sc-fMiknA ikEAoj"
+  >
+    AOS-281-035633-40
+    <span>
+       -
+      <span
+        className="sc-Rmtcm jWxVvT"
+      >
+         
+        In Progress
+      </span>
+    </span>
+  </p>
+</div>
+`;
+
+exports[`Storyshots PolicyNumbers with undefined ceremonies passed 1`] = `null`;
+
+exports[`Storyshots Registration Form default 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "left",
+    }
+  }
+>
+  <form
+    noValidate={true}
+    onSubmit={[Function]}
+  >
+    <div
+      style={
+        Object {
+          "fontSize": 12,
+          "marginBottom": 5,
+          "paddingLeft": 2,
+        }
+      }
+    >
+      Already have an account?  
+      <a
+        className="sc-dxgOiQ dJhdWC"
+        href="http://www.google.com"
+      >
+        Sign In
+      </a>
+    </div>
+    <div
+      className={undefined}
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "border": "solid 1px #808080",
+          "borderRadius": "3px",
+          "cursor": "not-allowed",
+          "display": "inline-block",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": 16,
+          "height": 50,
+          "lineHeight": "24px",
+          "margin": "5px 0px",
+          "muiPrepared": true,
+          "padding": "0px 10px",
+          "position": "relative",
+          "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+          "width": "95%",
+        }
+      }
+    >
+      <label
+        className={undefined}
+        htmlFor="emailAddress"
+        onTouchTap={undefined}
+        style={
+          Object {
+            "color": "#808080",
+            "fontSize": 12,
+            "lineHeight": "22px",
+            "muiPrepared": true,
+            "pointerEvents": "none",
+            "position": "absolute",
+            "top": 30,
+            "transform": "scale(0.75) translate(0, -28px)",
+            "transformOrigin": "left top",
+            "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "userSelect": "none",
+            "zIndex": 1,
+          }
+        }
+      >
+        Email Address
+      </label>
+      <input
+        disabled={true}
+        id="emailAddress"
+        name="emailAddress"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        required={true}
+        style={
+          Object {
+            "WebkitOpacity": 1,
+            "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+            "appearance": "textfield",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "border": "none",
+            "boxSizing": "border-box",
+            "color": "#404040",
+            "cursor": "inherit",
+            "font": "inherit",
+            "fontSize": 15,
+            "height": "100%",
+            "marginTop": 10,
+            "muiPrepared": true,
+            "outline": "none",
+            "padding": 0,
+            "position": "relative",
+            "width": "100%",
+          }
+        }
+        type="text"
+        value="foo@bar.com"
+      />
+    </div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+        }
+      }
+    >
+      <div>
+        <div
+          className={undefined}
+          style={
+            Object {
+              "backgroundColor": "transparent",
+              "border": "solid 1px #808080",
+              "borderRadius": "3px",
+              "cursor": "auto",
+              "display": "inline-block",
+              "fontFamily": "Roboto, sans-serif",
+              "fontSize": 16,
+              "height": 50,
+              "lineHeight": "24px",
+              "margin": "5px 0px",
+              "muiPrepared": true,
+              "padding": "0px 10px",
+              "position": "relative",
+              "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+              "width": "95%",
+            }
+          }
+        >
+          <label
+            className={undefined}
+            htmlFor="password"
+            onTouchTap={undefined}
+            style={
+              Object {
+                "color": "#808080",
+                "fontSize": 15,
+                "lineHeight": "22px",
+                "muiPrepared": true,
+                "pointerEvents": "none",
+                "position": "absolute",
+                "top": 15,
+                "transform": "scale(1) translate(0, 0)",
+                "transformOrigin": "left top",
+                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                "userSelect": "none",
+                "zIndex": 1,
+              }
+            }
+          >
+            Create Password
+          </label>
+          <input
+            disabled={false}
+            id="password"
+            name="password"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyPress={[Function]}
+            required={true}
+            style={
+              Object {
+                "WebkitOpacity": 1,
+                "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                "appearance": "textfield",
+                "backgroundColor": "rgba(0,0,0,0)",
+                "border": "none",
+                "boxSizing": "border-box",
+                "color": "#404040",
+                "cursor": "inherit",
+                "font": "inherit",
+                "fontSize": 15,
+                "height": "100%",
+                "marginTop": 10,
+                "muiPrepared": true,
+                "outline": "none",
+                "padding": 0,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+            type="password"
+            value=""
+          />
+        </div>
+      </div>
+      <span
+        style={
+          Object {
+            "fontSize": 10,
+            "position": "absolute",
+            "right": 10,
+            "top": 17,
+          }
+        }
+      >
+        <a
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "#1B75BB",
+              "cursor": "pointer",
+            }
+          }
+        >
+          <span>
+            show
+          </span>
+        </a>
+      </span>
+    </div>
+    <div
+      className="formsyInput"
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "border": "solid 1px #808080",
+          "borderRadius": "3px",
+          "cursor": "auto",
+          "display": "inline-block",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": 16,
+          "height": 50,
+          "lineHeight": "24px",
+          "margin": "5px 0px",
+          "muiPrepared": true,
+          "padding": "0px 10px",
+          "position": "relative",
+          "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+          "width": "95%",
+        }
+      }
+    >
+      <label
+        className={undefined}
+        htmlFor="dateOfBirth"
+        onTouchTap={undefined}
+        style={
+          Object {
+            "color": "#808080",
+            "fontSize": 12,
+            "lineHeight": "22px",
+            "muiPrepared": true,
+            "pointerEvents": "none",
+            "position": "absolute",
+            "top": 30,
+            "transform": "scale(0.75) translate(0, -28px)",
+            "transformOrigin": "left top",
+            "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "userSelect": "none",
+            "zIndex": 1,
+          }
+        }
+      >
+        Date of Birth
+      </label>
+      <input
+        disabled={false}
+        id="dateOfBirth"
+        name="dateOfBirth"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        required={true}
+        style={
+          Object {
+            "WebkitOpacity": 1,
+            "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+            "appearance": "textfield",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "border": "none",
+            "boxSizing": "border-box",
+            "color": "#404040",
+            "cursor": "inherit",
+            "font": "inherit",
+            "fontSize": 15,
+            "height": "100%",
+            "marginTop": 10,
+            "muiPrepared": true,
+            "outline": "none",
+            "padding": 0,
+            "position": "relative",
+            "width": "100%",
+          }
+        }
+        type="date"
+        value=""
+      />
+    </div>
+    <div
+      className="clearfix"
+    >
+      <div
+        className="sc-jKJlTe fVrGLJ"
+      >
+        <div
+          style={
+            Object {
+              "paddingTop": 10,
+            }
+          }
+        >
+          <div
+            className={undefined}
+            style={
+              Object {
+                "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                "backgroundColor": "#ffffff",
+                "borderRadius": 2,
+                "boxShadow": "0 1px 6px rgba(0, 0, 0, 0.12),
+         0 1px 4px rgba(0, 0, 0, 0.12)",
+                "boxSizing": "border-box",
+                "color": "rgba(0, 0, 0, 0.87)",
+                "display": "inline-block",
+                "fontFamily": "Roboto, sans-serif",
+                "height": 50,
+                "minWidth": 88,
+                "muiPrepared": true,
+                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                "width": "100%",
+              }
+            }
+          >
+            <button
+              disabled={false}
+              href={undefined}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchStart={[Function]}
+              onTouchTap={[Function]}
+              style={
+                Object {
+                  "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                  "backgroundColor": "#EC8900",
+                  "border": 10,
+                  "borderRadius": 2,
+                  "boxSizing": "border-box",
+                  "cursor": "pointer",
+                  "display": "inline-block",
+                  "fontFamily": "Roboto, sans-serif",
+                  "fontSize": "inherit",
+                  "fontWeight": "inherit",
+                  "height": 50,
+                  "lineHeight": "50px",
+                  "margin": 0,
+                  "muiPrepared": true,
+                  "outline": "none",
+                  "padding": 0,
+                  "position": "relative",
+                  "textAlign": "center",
+                  "textDecoration": "none",
+                  "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                  "verticalAlign": null,
+                  "width": "100%",
+                  "zIndex": 1,
+                }
+              }
+              tabIndex={0}
+              type="submit"
+            >
+              <div
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchStart={[Function]}
+              >
+                <div
+                  style={
+                    Object {
+                      "backgroundColor": false,
+                      "borderRadius": 2,
+                      "height": 50,
+                      "muiPrepared": true,
+                      "top": 0,
+                      "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#FFFFFF",
+                        "fontSize": 14,
+                        "fontWeight": 500,
+                        "letterSpacing": 0,
+                        "margin": 0,
+                        "muiPrepared": true,
+                        "opacity": 1,
+                        "paddingLeft": 16,
+                        "paddingRight": 16,
+                        "position": "relative",
+                        "textTransform": "uppercase",
+                        "userSelect": "none",
+                      }
+                    }
+                  >
+                    Submit
+                  </span>
+                </div>
+              </div>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="sc-hMqMXs iyuJlD"
+      >
+        <div
+          style={
+            Object {
+              "color": "#969696",
+              "fontSize": 9,
+              "lineHeight": 1.4,
+              "paddingTop": 20,
+            }
+          }
+        >
+          By choosing to continue, you acknowledge you have read and accept our
+          <a
+            href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+            style={
+              Object {
+                "color": "#1B75BB",
+                "marginLeft": 5,
+              }
+            }
+            target="_blank"
+          >
+            eService terms & conditions
+          </a>
+          .
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`Storyshots Registration Form with SSN displayed 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "left",
+    }
+  }
+>
+  <form
+    noValidate={true}
+    onSubmit={[Function]}
+  >
+    <div
+      style={
+        Object {
+          "fontSize": 12,
+          "marginBottom": 5,
+          "paddingLeft": 2,
+        }
+      }
+    >
+      Already have an account?  
+      <a
+        className="sc-dxgOiQ dJhdWC"
+        href="http://www.google.com"
+      >
+        Sign In
+      </a>
+    </div>
+    <div
+      className={undefined}
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "border": "solid 1px #808080",
+          "borderRadius": "3px",
+          "cursor": "not-allowed",
+          "display": "inline-block",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": 16,
+          "height": 50,
+          "lineHeight": "24px",
+          "margin": "5px 0px",
+          "muiPrepared": true,
+          "padding": "0px 10px",
+          "position": "relative",
+          "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+          "width": "95%",
+        }
+      }
+    >
+      <label
+        className={undefined}
+        htmlFor="emailAddress"
+        onTouchTap={undefined}
+        style={
+          Object {
+            "color": "#808080",
+            "fontSize": 12,
+            "lineHeight": "22px",
+            "muiPrepared": true,
+            "pointerEvents": "none",
+            "position": "absolute",
+            "top": 30,
+            "transform": "scale(0.75) translate(0, -28px)",
+            "transformOrigin": "left top",
+            "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "userSelect": "none",
+            "zIndex": 1,
+          }
+        }
+      >
+        Email Address
+      </label>
+      <input
+        disabled={true}
+        id="emailAddress"
+        name="emailAddress"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        required={true}
+        style={
+          Object {
+            "WebkitOpacity": 1,
+            "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+            "appearance": "textfield",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "border": "none",
+            "boxSizing": "border-box",
+            "color": "#404040",
+            "cursor": "inherit",
+            "font": "inherit",
+            "fontSize": 15,
+            "height": "100%",
+            "marginTop": 10,
+            "muiPrepared": true,
+            "outline": "none",
+            "padding": 0,
+            "position": "relative",
+            "width": "100%",
+          }
+        }
+        type="text"
+        value="foo@bar.com"
+      />
+    </div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+        }
+      }
+    >
+      <div>
+        <div
+          className={undefined}
+          style={
+            Object {
+              "backgroundColor": "transparent",
+              "border": "solid 1px #808080",
+              "borderRadius": "3px",
+              "cursor": "auto",
+              "display": "inline-block",
+              "fontFamily": "Roboto, sans-serif",
+              "fontSize": 16,
+              "height": 50,
+              "lineHeight": "24px",
+              "margin": "5px 0px",
+              "muiPrepared": true,
+              "padding": "0px 10px",
+              "position": "relative",
+              "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+              "width": "95%",
+            }
+          }
+        >
+          <label
+            className={undefined}
+            htmlFor="password"
+            onTouchTap={undefined}
+            style={
+              Object {
+                "color": "#808080",
+                "fontSize": 15,
+                "lineHeight": "22px",
+                "muiPrepared": true,
+                "pointerEvents": "none",
+                "position": "absolute",
+                "top": 15,
+                "transform": "scale(1) translate(0, 0)",
+                "transformOrigin": "left top",
+                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                "userSelect": "none",
+                "zIndex": 1,
+              }
+            }
+          >
+            Create Password
+          </label>
+          <input
+            disabled={false}
+            id="password"
+            name="password"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyPress={[Function]}
+            required={true}
+            style={
+              Object {
+                "WebkitOpacity": 1,
+                "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                "appearance": "textfield",
+                "backgroundColor": "rgba(0,0,0,0)",
+                "border": "none",
+                "boxSizing": "border-box",
+                "color": "#404040",
+                "cursor": "inherit",
+                "font": "inherit",
+                "fontSize": 15,
+                "height": "100%",
+                "marginTop": 10,
+                "muiPrepared": true,
+                "outline": "none",
+                "padding": 0,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+            type="password"
+            value=""
+          />
+        </div>
+      </div>
+      <span
+        style={
+          Object {
+            "fontSize": 10,
+            "position": "absolute",
+            "right": 10,
+            "top": 17,
+          }
+        }
+      >
+        <a
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "#1B75BB",
+              "cursor": "pointer",
+            }
+          }
+        >
+          <span>
+            show
+          </span>
+        </a>
+      </span>
+    </div>
+    <div
+      className="formsyInput"
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "border": "solid 1px #808080",
+          "borderRadius": "3px",
+          "cursor": "auto",
+          "display": "inline-block",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": 16,
+          "height": 50,
+          "lineHeight": "24px",
+          "margin": "5px 0px",
+          "muiPrepared": true,
+          "padding": "0px 10px",
+          "position": "relative",
+          "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+          "width": "95%",
+        }
+      }
+    >
+      <label
+        className={undefined}
+        htmlFor="dateOfBirth"
+        onTouchTap={undefined}
+        style={
+          Object {
+            "color": "#808080",
+            "fontSize": 12,
+            "lineHeight": "22px",
+            "muiPrepared": true,
+            "pointerEvents": "none",
+            "position": "absolute",
+            "top": 30,
+            "transform": "scale(0.75) translate(0, -28px)",
+            "transformOrigin": "left top",
+            "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "userSelect": "none",
+            "zIndex": 1,
+          }
+        }
+      >
+        Date of Birth
+      </label>
+      <input
+        disabled={false}
+        id="dateOfBirth"
+        name="dateOfBirth"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        required={true}
+        style={
+          Object {
+            "WebkitOpacity": 1,
+            "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+            "appearance": "textfield",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "border": "none",
+            "boxSizing": "border-box",
+            "color": "#404040",
+            "cursor": "inherit",
+            "font": "inherit",
+            "fontSize": 15,
+            "height": "100%",
+            "marginTop": 10,
+            "muiPrepared": true,
+            "outline": "none",
+            "padding": 0,
+            "position": "relative",
+            "width": "100%",
+          }
+        }
+        type="date"
+        value=""
+      />
+    </div>
+    <div>
+      <div
+        className={undefined}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+            "border": "solid 1px #808080",
+            "borderRadius": "3px",
+            "cursor": "auto",
+            "display": "inline-block",
+            "fontFamily": "Roboto, sans-serif",
+            "fontSize": 16,
+            "height": 50,
+            "lineHeight": "24px",
+            "margin": "5px 0px",
+            "muiPrepared": true,
+            "padding": "0px 10px",
+            "position": "relative",
+            "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "width": "95%",
+          }
+        }
+      >
+        <label
+          className={undefined}
+          htmlFor="lastFourSSN"
+          onTouchTap={undefined}
+          style={
+            Object {
+              "color": "#808080",
+              "fontSize": 15,
+              "lineHeight": "22px",
+              "muiPrepared": true,
+              "pointerEvents": "none",
+              "position": "absolute",
+              "top": 15,
+              "transform": "scale(1) translate(0, 0)",
+              "transformOrigin": "left top",
+              "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+              "userSelect": "none",
+              "zIndex": 1,
+            }
+          }
+        >
+          Last 4 of SSN
+        </label>
+        <input
+          disabled={false}
+          id="lastFourSSN"
+          maxLength="4"
+          name="lastFourSSN"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          required={true}
+          style={
+            Object {
+              "WebkitOpacity": 1,
+              "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+              "appearance": "textfield",
+              "backgroundColor": "rgba(0,0,0,0)",
+              "border": "none",
+              "boxSizing": "border-box",
+              "color": "#404040",
+              "cursor": "inherit",
+              "font": "inherit",
+              "fontSize": 15,
+              "height": "100%",
+              "marginTop": 10,
+              "muiPrepared": true,
+              "outline": "none",
+              "padding": 0,
+              "position": "relative",
+              "width": "100%",
+            }
+          }
+          type="password"
+          value=""
+        />
+      </div>
+    </div>
+    <div
+      className="clearfix"
+    >
+      <div
+        className="sc-jKJlTe fVrGLJ"
+      >
+        <div
+          style={
+            Object {
+              "paddingTop": 10,
+            }
+          }
+        >
+          <div
+            className={undefined}
+            style={
+              Object {
+                "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                "backgroundColor": "#ffffff",
+                "borderRadius": 2,
+                "boxShadow": "0 1px 6px rgba(0, 0, 0, 0.12),
+         0 1px 4px rgba(0, 0, 0, 0.12)",
+                "boxSizing": "border-box",
+                "color": "rgba(0, 0, 0, 0.87)",
+                "display": "inline-block",
+                "fontFamily": "Roboto, sans-serif",
+                "height": 50,
+                "minWidth": 88,
+                "muiPrepared": true,
+                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                "width": "100%",
+              }
+            }
+          >
+            <button
+              disabled={false}
+              href={undefined}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchStart={[Function]}
+              onTouchTap={[Function]}
+              style={
+                Object {
+                  "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                  "backgroundColor": "#EC8900",
+                  "border": 10,
+                  "borderRadius": 2,
+                  "boxSizing": "border-box",
+                  "cursor": "pointer",
+                  "display": "inline-block",
+                  "fontFamily": "Roboto, sans-serif",
+                  "fontSize": "inherit",
+                  "fontWeight": "inherit",
+                  "height": 50,
+                  "lineHeight": "50px",
+                  "margin": 0,
+                  "muiPrepared": true,
+                  "outline": "none",
+                  "padding": 0,
+                  "position": "relative",
+                  "textAlign": "center",
+                  "textDecoration": "none",
+                  "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                  "verticalAlign": null,
+                  "width": "100%",
+                  "zIndex": 1,
+                }
+              }
+              tabIndex={0}
+              type="submit"
+            >
+              <div
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchStart={[Function]}
+              >
+                <div
+                  style={
+                    Object {
+                      "backgroundColor": false,
+                      "borderRadius": 2,
+                      "height": 50,
+                      "muiPrepared": true,
+                      "top": 0,
+                      "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#FFFFFF",
+                        "fontSize": 14,
+                        "fontWeight": 500,
+                        "letterSpacing": 0,
+                        "margin": 0,
+                        "muiPrepared": true,
+                        "opacity": 1,
+                        "paddingLeft": 16,
+                        "paddingRight": 16,
+                        "position": "relative",
+                        "textTransform": "uppercase",
+                        "userSelect": "none",
+                      }
+                    }
+                  >
+                    Submit
+                  </span>
+                </div>
+              </div>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="sc-hMqMXs iyuJlD"
+      >
+        <div
+          style={
+            Object {
+              "color": "#969696",
+              "fontSize": 9,
+              "lineHeight": 1.4,
+              "paddingTop": 20,
+            }
+          }
+        >
+          By choosing to continue, you acknowledge you have read and accept our
+          <a
+            href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+            style={
+              Object {
+                "color": "#1B75BB",
+                "marginLeft": 5,
+              }
+            }
+            target="_blank"
+          >
+            eService terms & conditions
+          </a>
+          .
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`Storyshots Registration Form with a disabled button 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "left",
+    }
+  }
+>
+  <form
+    noValidate={true}
+    onSubmit={[Function]}
+  >
+    <div
+      style={
+        Object {
+          "fontSize": 12,
+          "marginBottom": 5,
+          "paddingLeft": 2,
+        }
+      }
+    >
+      Already have an account?  
+      <a
+        className="sc-dxgOiQ dJhdWC"
+        href="http://www.google.com"
+      >
+        Sign In
+      </a>
+    </div>
+    <div
+      className={undefined}
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "border": "solid 1px #808080",
+          "borderRadius": "3px",
+          "cursor": "not-allowed",
+          "display": "inline-block",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": 16,
+          "height": 50,
+          "lineHeight": "24px",
+          "margin": "5px 0px",
+          "muiPrepared": true,
+          "padding": "0px 10px",
+          "position": "relative",
+          "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+          "width": "95%",
+        }
+      }
+    >
+      <label
+        className={undefined}
+        htmlFor="emailAddress"
+        onTouchTap={undefined}
+        style={
+          Object {
+            "color": "#808080",
+            "fontSize": 12,
+            "lineHeight": "22px",
+            "muiPrepared": true,
+            "pointerEvents": "none",
+            "position": "absolute",
+            "top": 30,
+            "transform": "scale(0.75) translate(0, -28px)",
+            "transformOrigin": "left top",
+            "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "userSelect": "none",
+            "zIndex": 1,
+          }
+        }
+      >
+        Email Address
+      </label>
+      <input
+        disabled={true}
+        id="emailAddress"
+        name="emailAddress"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        required={true}
+        style={
+          Object {
+            "WebkitOpacity": 1,
+            "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+            "appearance": "textfield",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "border": "none",
+            "boxSizing": "border-box",
+            "color": "#404040",
+            "cursor": "inherit",
+            "font": "inherit",
+            "fontSize": 15,
+            "height": "100%",
+            "marginTop": 10,
+            "muiPrepared": true,
+            "outline": "none",
+            "padding": 0,
+            "position": "relative",
+            "width": "100%",
+          }
+        }
+        type="text"
+        value="foo@bar.com"
+      />
+    </div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+        }
+      }
+    >
+      <div>
+        <div
+          className={undefined}
+          style={
+            Object {
+              "backgroundColor": "transparent",
+              "border": "solid 1px #808080",
+              "borderRadius": "3px",
+              "cursor": "auto",
+              "display": "inline-block",
+              "fontFamily": "Roboto, sans-serif",
+              "fontSize": 16,
+              "height": 50,
+              "lineHeight": "24px",
+              "margin": "5px 0px",
+              "muiPrepared": true,
+              "padding": "0px 10px",
+              "position": "relative",
+              "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+              "width": "95%",
+            }
+          }
+        >
+          <label
+            className={undefined}
+            htmlFor="password"
+            onTouchTap={undefined}
+            style={
+              Object {
+                "color": "#808080",
+                "fontSize": 15,
+                "lineHeight": "22px",
+                "muiPrepared": true,
+                "pointerEvents": "none",
+                "position": "absolute",
+                "top": 15,
+                "transform": "scale(1) translate(0, 0)",
+                "transformOrigin": "left top",
+                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                "userSelect": "none",
+                "zIndex": 1,
+              }
+            }
+          >
+            Create Password
+          </label>
+          <input
+            disabled={false}
+            id="password"
+            name="password"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyPress={[Function]}
+            required={true}
+            style={
+              Object {
+                "WebkitOpacity": 1,
+                "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                "appearance": "textfield",
+                "backgroundColor": "rgba(0,0,0,0)",
+                "border": "none",
+                "boxSizing": "border-box",
+                "color": "#404040",
+                "cursor": "inherit",
+                "font": "inherit",
+                "fontSize": 15,
+                "height": "100%",
+                "marginTop": 10,
+                "muiPrepared": true,
+                "outline": "none",
+                "padding": 0,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+            type="password"
+            value=""
+          />
+        </div>
+      </div>
+      <span
+        style={
+          Object {
+            "fontSize": 10,
+            "position": "absolute",
+            "right": 10,
+            "top": 17,
+          }
+        }
+      >
+        <a
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "#1B75BB",
+              "cursor": "pointer",
+            }
+          }
+        >
+          <span>
+            show
+          </span>
+        </a>
+      </span>
+    </div>
+    <div
+      className="formsyInput"
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "border": "solid 1px #808080",
+          "borderRadius": "3px",
+          "cursor": "auto",
+          "display": "inline-block",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": 16,
+          "height": 50,
+          "lineHeight": "24px",
+          "margin": "5px 0px",
+          "muiPrepared": true,
+          "padding": "0px 10px",
+          "position": "relative",
+          "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+          "width": "95%",
+        }
+      }
+    >
+      <label
+        className={undefined}
+        htmlFor="dateOfBirth"
+        onTouchTap={undefined}
+        style={
+          Object {
+            "color": "#808080",
+            "fontSize": 12,
+            "lineHeight": "22px",
+            "muiPrepared": true,
+            "pointerEvents": "none",
+            "position": "absolute",
+            "top": 30,
+            "transform": "scale(0.75) translate(0, -28px)",
+            "transformOrigin": "left top",
+            "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "userSelect": "none",
+            "zIndex": 1,
+          }
+        }
+      >
+        Date of Birth
+      </label>
+      <input
+        disabled={false}
+        id="dateOfBirth"
+        name="dateOfBirth"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        required={true}
+        style={
+          Object {
+            "WebkitOpacity": 1,
+            "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+            "appearance": "textfield",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "border": "none",
+            "boxSizing": "border-box",
+            "color": "#404040",
+            "cursor": "inherit",
+            "font": "inherit",
+            "fontSize": 15,
+            "height": "100%",
+            "marginTop": 10,
+            "muiPrepared": true,
+            "outline": "none",
+            "padding": 0,
+            "position": "relative",
+            "width": "100%",
+          }
+        }
+        type="date"
+        value=""
+      />
+    </div>
+    <div
+      className="clearfix"
+    >
+      <div
+        className="sc-jKJlTe fVrGLJ"
+      >
+        <div
+          style={
+            Object {
+              "paddingTop": 10,
+            }
+          }
+        >
+          <div
+            className={undefined}
+            style={
+              Object {
+                "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                "backgroundColor": "#ffffff",
+                "borderRadius": 2,
+                "boxShadow": undefined,
+                "boxSizing": "border-box",
+                "color": "rgba(0, 0, 0, 0.87)",
+                "display": "inline-block",
+                "fontFamily": "Roboto, sans-serif",
+                "height": 50,
+                "minWidth": 88,
+                "muiPrepared": true,
+                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                "width": "100%",
+              }
+            }
+          >
+            <button
+              disabled={true}
+              href={undefined}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onTouchTap={[Function]}
+              style={
+                Object {
+                  "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                  "backgroundColor": "#E5E5E5",
+                  "border": 10,
+                  "borderRadius": 2,
+                  "boxSizing": "border-box",
+                  "cursor": "default",
+                  "display": "inline-block",
+                  "fontFamily": "Roboto, sans-serif",
+                  "fontSize": "inherit",
+                  "fontWeight": "inherit",
+                  "height": 50,
+                  "lineHeight": "50px",
+                  "margin": 0,
+                  "muiPrepared": true,
+                  "outline": "none",
+                  "padding": 0,
+                  "position": "relative",
+                  "textAlign": "center",
+                  "textDecoration": "none",
+                  "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                  "verticalAlign": null,
+                  "width": "100%",
+                  "zIndex": 1,
+                }
+              }
+              tabIndex={-1}
+              type="submit"
+            >
+              <div
+                style={
+                  Object {
+                    "backgroundColor": false,
+                    "borderRadius": 2,
+                    "height": 50,
+                    "muiPrepared": true,
+                    "top": 0,
+                    "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                  }
+                }
+              >
+                <span
+                  style={
+                    Object {
+                      "color": "#A3A3A3",
+                      "fontSize": 14,
+                      "fontWeight": 500,
+                      "letterSpacing": 0,
+                      "margin": 0,
+                      "muiPrepared": true,
+                      "opacity": 1,
+                      "paddingLeft": 16,
+                      "paddingRight": 16,
+                      "position": "relative",
+                      "textTransform": "uppercase",
+                      "userSelect": "none",
+                    }
+                  }
+                >
+                  Submit
+                </span>
+              </div>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="sc-hMqMXs iyuJlD"
+      >
+        <div
+          style={
+            Object {
+              "color": "#969696",
+              "fontSize": 9,
+              "lineHeight": 1.4,
+              "paddingTop": 20,
+            }
+          }
+        >
+          By choosing to continue, you acknowledge you have read and accept our
+          <a
+            href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+            style={
+              Object {
+                "color": "#1B75BB",
+                "marginLeft": 5,
+              }
+            }
+            target="_blank"
+          >
+            eService terms & conditions
+          </a>
+          .
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`Storyshots Registration Form with a funky email address 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "left",
+    }
+  }
+>
+  <form
+    noValidate={true}
+    onSubmit={[Function]}
+  >
+    <div
+      style={
+        Object {
+          "fontSize": 12,
+          "marginBottom": 5,
+          "paddingLeft": 2,
+        }
+      }
+    >
+      Already have an account?  
+      <a
+        className="sc-dxgOiQ dJhdWC"
+        href="http://www.google.com"
+      >
+        Sign In
+      </a>
+    </div>
+    <div
+      className={undefined}
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "border": "solid 1px #808080",
+          "borderRadius": "3px",
+          "cursor": "not-allowed",
+          "display": "inline-block",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": 16,
+          "height": 50,
+          "lineHeight": "24px",
+          "margin": "5px 0px",
+          "muiPrepared": true,
+          "padding": "0px 10px",
+          "position": "relative",
+          "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+          "width": "95%",
+        }
+      }
+    >
+      <label
+        className={undefined}
+        htmlFor="emailAddress"
+        onTouchTap={undefined}
+        style={
+          Object {
+            "color": "#808080",
+            "fontSize": 12,
+            "lineHeight": "22px",
+            "muiPrepared": true,
+            "pointerEvents": "none",
+            "position": "absolute",
+            "top": 30,
+            "transform": "scale(0.75) translate(0, -28px)",
+            "transformOrigin": "left top",
+            "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "userSelect": "none",
+            "zIndex": 1,
+          }
+        }
+      >
+        Email Address
+      </label>
+      <input
+        disabled={true}
+        id="emailAddress"
+        name="emailAddress"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        required={true}
+        style={
+          Object {
+            "WebkitOpacity": 1,
+            "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+            "appearance": "textfield",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "border": "none",
+            "boxSizing": "border-box",
+            "color": "#404040",
+            "cursor": "inherit",
+            "font": "inherit",
+            "fontSize": 15,
+            "height": "100%",
+            "marginTop": 10,
+            "muiPrepared": true,
+            "outline": "none",
+            "padding": 0,
+            "position": "relative",
+            "width": "100%",
+          }
+        }
+        type="text"
+        value="woah@dude.com"
+      />
+    </div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+        }
+      }
+    >
+      <div>
+        <div
+          className={undefined}
+          style={
+            Object {
+              "backgroundColor": "transparent",
+              "border": "solid 1px #808080",
+              "borderRadius": "3px",
+              "cursor": "auto",
+              "display": "inline-block",
+              "fontFamily": "Roboto, sans-serif",
+              "fontSize": 16,
+              "height": 50,
+              "lineHeight": "24px",
+              "margin": "5px 0px",
+              "muiPrepared": true,
+              "padding": "0px 10px",
+              "position": "relative",
+              "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+              "width": "95%",
+            }
+          }
+        >
+          <label
+            className={undefined}
+            htmlFor="password"
+            onTouchTap={undefined}
+            style={
+              Object {
+                "color": "#808080",
+                "fontSize": 15,
+                "lineHeight": "22px",
+                "muiPrepared": true,
+                "pointerEvents": "none",
+                "position": "absolute",
+                "top": 15,
+                "transform": "scale(1) translate(0, 0)",
+                "transformOrigin": "left top",
+                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                "userSelect": "none",
+                "zIndex": 1,
+              }
+            }
+          >
+            Create Password
+          </label>
+          <input
+            disabled={false}
+            id="password"
+            name="password"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyPress={[Function]}
+            required={true}
+            style={
+              Object {
+                "WebkitOpacity": 1,
+                "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                "appearance": "textfield",
+                "backgroundColor": "rgba(0,0,0,0)",
+                "border": "none",
+                "boxSizing": "border-box",
+                "color": "#404040",
+                "cursor": "inherit",
+                "font": "inherit",
+                "fontSize": 15,
+                "height": "100%",
+                "marginTop": 10,
+                "muiPrepared": true,
+                "outline": "none",
+                "padding": 0,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+            type="password"
+            value=""
+          />
+        </div>
+      </div>
+      <span
+        style={
+          Object {
+            "fontSize": 10,
+            "position": "absolute",
+            "right": 10,
+            "top": 17,
+          }
+        }
+      >
+        <a
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "#1B75BB",
+              "cursor": "pointer",
+            }
+          }
+        >
+          <span>
+            show
+          </span>
+        </a>
+      </span>
+    </div>
+    <div
+      className="formsyInput"
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "border": "solid 1px #808080",
+          "borderRadius": "3px",
+          "cursor": "auto",
+          "display": "inline-block",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": 16,
+          "height": 50,
+          "lineHeight": "24px",
+          "margin": "5px 0px",
+          "muiPrepared": true,
+          "padding": "0px 10px",
+          "position": "relative",
+          "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+          "width": "95%",
+        }
+      }
+    >
+      <label
+        className={undefined}
+        htmlFor="dateOfBirth"
+        onTouchTap={undefined}
+        style={
+          Object {
+            "color": "#808080",
+            "fontSize": 12,
+            "lineHeight": "22px",
+            "muiPrepared": true,
+            "pointerEvents": "none",
+            "position": "absolute",
+            "top": 30,
+            "transform": "scale(0.75) translate(0, -28px)",
+            "transformOrigin": "left top",
+            "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "userSelect": "none",
+            "zIndex": 1,
+          }
+        }
+      >
+        Date of Birth
+      </label>
+      <input
+        disabled={false}
+        id="dateOfBirth"
+        name="dateOfBirth"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        required={true}
+        style={
+          Object {
+            "WebkitOpacity": 1,
+            "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+            "appearance": "textfield",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "border": "none",
+            "boxSizing": "border-box",
+            "color": "#404040",
+            "cursor": "inherit",
+            "font": "inherit",
+            "fontSize": 15,
+            "height": "100%",
+            "marginTop": 10,
+            "muiPrepared": true,
+            "outline": "none",
+            "padding": 0,
+            "position": "relative",
+            "width": "100%",
+          }
+        }
+        type="date"
+        value=""
+      />
+    </div>
+    <div
+      className="clearfix"
+    >
+      <div
+        className="sc-jKJlTe fVrGLJ"
+      >
+        <div
+          style={
+            Object {
+              "paddingTop": 10,
+            }
+          }
+        >
+          <div
+            className={undefined}
+            style={
+              Object {
+                "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                "backgroundColor": "#ffffff",
+                "borderRadius": 2,
+                "boxShadow": "0 1px 6px rgba(0, 0, 0, 0.12),
+         0 1px 4px rgba(0, 0, 0, 0.12)",
+                "boxSizing": "border-box",
+                "color": "rgba(0, 0, 0, 0.87)",
+                "display": "inline-block",
+                "fontFamily": "Roboto, sans-serif",
+                "height": 50,
+                "minWidth": 88,
+                "muiPrepared": true,
+                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                "width": "100%",
+              }
+            }
+          >
+            <button
+              disabled={false}
+              href={undefined}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchStart={[Function]}
+              onTouchTap={[Function]}
+              style={
+                Object {
+                  "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                  "backgroundColor": "#EC8900",
+                  "border": 10,
+                  "borderRadius": 2,
+                  "boxSizing": "border-box",
+                  "cursor": "pointer",
+                  "display": "inline-block",
+                  "fontFamily": "Roboto, sans-serif",
+                  "fontSize": "inherit",
+                  "fontWeight": "inherit",
+                  "height": 50,
+                  "lineHeight": "50px",
+                  "margin": 0,
+                  "muiPrepared": true,
+                  "outline": "none",
+                  "padding": 0,
+                  "position": "relative",
+                  "textAlign": "center",
+                  "textDecoration": "none",
+                  "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                  "verticalAlign": null,
+                  "width": "100%",
+                  "zIndex": 1,
+                }
+              }
+              tabIndex={0}
+              type="submit"
+            >
+              <div
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchStart={[Function]}
+              >
+                <div
+                  style={
+                    Object {
+                      "backgroundColor": false,
+                      "borderRadius": 2,
+                      "height": 50,
+                      "muiPrepared": true,
+                      "top": 0,
+                      "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#FFFFFF",
+                        "fontSize": 14,
+                        "fontWeight": 500,
+                        "letterSpacing": 0,
+                        "margin": 0,
+                        "muiPrepared": true,
+                        "opacity": 1,
+                        "paddingLeft": 16,
+                        "paddingRight": 16,
+                        "position": "relative",
+                        "textTransform": "uppercase",
+                        "userSelect": "none",
+                      }
+                    }
+                  >
+                    Submit
+                  </span>
+                </div>
+              </div>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="sc-hMqMXs iyuJlD"
+      >
+        <div
+          style={
+            Object {
+              "color": "#969696",
+              "fontSize": 9,
+              "lineHeight": 1.4,
+              "paddingTop": 20,
+            }
+          }
+        >
+          By choosing to continue, you acknowledge you have read and accept our
+          <a
+            href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+            style={
+              Object {
+                "color": "#1B75BB",
+                "marginLeft": 5,
+              }
+            }
+            target="_blank"
+          >
+            eService terms & conditions
+          </a>
+          .
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`Storyshots Registration Form with a funky submit button label 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "left",
+    }
+  }
+>
+  <form
+    noValidate={true}
+    onSubmit={[Function]}
+  >
+    <div
+      style={
+        Object {
+          "fontSize": 12,
+          "marginBottom": 5,
+          "paddingLeft": 2,
+        }
+      }
+    >
+      Already have an account?  
+      <a
+        className="sc-dxgOiQ dJhdWC"
+        href="http://www.google.com"
+      >
+        Sign In
+      </a>
+    </div>
+    <div
+      className={undefined}
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "border": "solid 1px #808080",
+          "borderRadius": "3px",
+          "cursor": "not-allowed",
+          "display": "inline-block",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": 16,
+          "height": 50,
+          "lineHeight": "24px",
+          "margin": "5px 0px",
+          "muiPrepared": true,
+          "padding": "0px 10px",
+          "position": "relative",
+          "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+          "width": "95%",
+        }
+      }
+    >
+      <label
+        className={undefined}
+        htmlFor="emailAddress"
+        onTouchTap={undefined}
+        style={
+          Object {
+            "color": "#808080",
+            "fontSize": 12,
+            "lineHeight": "22px",
+            "muiPrepared": true,
+            "pointerEvents": "none",
+            "position": "absolute",
+            "top": 30,
+            "transform": "scale(0.75) translate(0, -28px)",
+            "transformOrigin": "left top",
+            "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "userSelect": "none",
+            "zIndex": 1,
+          }
+        }
+      >
+        Email Address
+      </label>
+      <input
+        disabled={true}
+        id="emailAddress"
+        name="emailAddress"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        required={true}
+        style={
+          Object {
+            "WebkitOpacity": 1,
+            "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+            "appearance": "textfield",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "border": "none",
+            "boxSizing": "border-box",
+            "color": "#404040",
+            "cursor": "inherit",
+            "font": "inherit",
+            "fontSize": 15,
+            "height": "100%",
+            "marginTop": 10,
+            "muiPrepared": true,
+            "outline": "none",
+            "padding": 0,
+            "position": "relative",
+            "width": "100%",
+          }
+        }
+        type="text"
+        value="foo@bar.com"
+      />
+    </div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+        }
+      }
+    >
+      <div>
+        <div
+          className={undefined}
+          style={
+            Object {
+              "backgroundColor": "transparent",
+              "border": "solid 1px #808080",
+              "borderRadius": "3px",
+              "cursor": "auto",
+              "display": "inline-block",
+              "fontFamily": "Roboto, sans-serif",
+              "fontSize": 16,
+              "height": 50,
+              "lineHeight": "24px",
+              "margin": "5px 0px",
+              "muiPrepared": true,
+              "padding": "0px 10px",
+              "position": "relative",
+              "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+              "width": "95%",
+            }
+          }
+        >
+          <label
+            className={undefined}
+            htmlFor="password"
+            onTouchTap={undefined}
+            style={
+              Object {
+                "color": "#808080",
+                "fontSize": 15,
+                "lineHeight": "22px",
+                "muiPrepared": true,
+                "pointerEvents": "none",
+                "position": "absolute",
+                "top": 15,
+                "transform": "scale(1) translate(0, 0)",
+                "transformOrigin": "left top",
+                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                "userSelect": "none",
+                "zIndex": 1,
+              }
+            }
+          >
+            Create Password
+          </label>
+          <input
+            disabled={false}
+            id="password"
+            name="password"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyPress={[Function]}
+            required={true}
+            style={
+              Object {
+                "WebkitOpacity": 1,
+                "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                "appearance": "textfield",
+                "backgroundColor": "rgba(0,0,0,0)",
+                "border": "none",
+                "boxSizing": "border-box",
+                "color": "#404040",
+                "cursor": "inherit",
+                "font": "inherit",
+                "fontSize": 15,
+                "height": "100%",
+                "marginTop": 10,
+                "muiPrepared": true,
+                "outline": "none",
+                "padding": 0,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+            type="password"
+            value=""
+          />
+        </div>
+      </div>
+      <span
+        style={
+          Object {
+            "fontSize": 10,
+            "position": "absolute",
+            "right": 10,
+            "top": 17,
+          }
+        }
+      >
+        <a
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "#1B75BB",
+              "cursor": "pointer",
+            }
+          }
+        >
+          <span>
+            show
+          </span>
+        </a>
+      </span>
+    </div>
+    <div
+      className="formsyInput"
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "border": "solid 1px #808080",
+          "borderRadius": "3px",
+          "cursor": "auto",
+          "display": "inline-block",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": 16,
+          "height": 50,
+          "lineHeight": "24px",
+          "margin": "5px 0px",
+          "muiPrepared": true,
+          "padding": "0px 10px",
+          "position": "relative",
+          "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+          "width": "95%",
+        }
+      }
+    >
+      <label
+        className={undefined}
+        htmlFor="dateOfBirth"
+        onTouchTap={undefined}
+        style={
+          Object {
+            "color": "#808080",
+            "fontSize": 12,
+            "lineHeight": "22px",
+            "muiPrepared": true,
+            "pointerEvents": "none",
+            "position": "absolute",
+            "top": 30,
+            "transform": "scale(0.75) translate(0, -28px)",
+            "transformOrigin": "left top",
+            "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "userSelect": "none",
+            "zIndex": 1,
+          }
+        }
+      >
+        Date of Birth
+      </label>
+      <input
+        disabled={false}
+        id="dateOfBirth"
+        name="dateOfBirth"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        required={true}
+        style={
+          Object {
+            "WebkitOpacity": 1,
+            "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+            "appearance": "textfield",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "border": "none",
+            "boxSizing": "border-box",
+            "color": "#404040",
+            "cursor": "inherit",
+            "font": "inherit",
+            "fontSize": 15,
+            "height": "100%",
+            "marginTop": 10,
+            "muiPrepared": true,
+            "outline": "none",
+            "padding": 0,
+            "position": "relative",
+            "width": "100%",
+          }
+        }
+        type="date"
+        value=""
+      />
+    </div>
+    <div
+      className="clearfix"
+    >
+      <div
+        className="sc-jKJlTe fVrGLJ"
+      >
+        <div
+          style={
+            Object {
+              "paddingTop": 10,
+            }
+          }
+        >
+          <div
+            className={undefined}
+            style={
+              Object {
+                "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                "backgroundColor": "#ffffff",
+                "borderRadius": 2,
+                "boxShadow": "0 1px 6px rgba(0, 0, 0, 0.12),
+         0 1px 4px rgba(0, 0, 0, 0.12)",
+                "boxSizing": "border-box",
+                "color": "rgba(0, 0, 0, 0.87)",
+                "display": "inline-block",
+                "fontFamily": "Roboto, sans-serif",
+                "height": 50,
+                "minWidth": 88,
+                "muiPrepared": true,
+                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                "width": "100%",
+              }
+            }
+          >
+            <button
+              disabled={false}
+              href={undefined}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchStart={[Function]}
+              onTouchTap={[Function]}
+              style={
+                Object {
+                  "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                  "backgroundColor": "#EC8900",
+                  "border": 10,
+                  "borderRadius": 2,
+                  "boxSizing": "border-box",
+                  "cursor": "pointer",
+                  "display": "inline-block",
+                  "fontFamily": "Roboto, sans-serif",
+                  "fontSize": "inherit",
+                  "fontWeight": "inherit",
+                  "height": 50,
+                  "lineHeight": "50px",
+                  "margin": 0,
+                  "muiPrepared": true,
+                  "outline": "none",
+                  "padding": 0,
+                  "position": "relative",
+                  "textAlign": "center",
+                  "textDecoration": "none",
+                  "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                  "verticalAlign": null,
+                  "width": "100%",
+                  "zIndex": 1,
+                }
+              }
+              tabIndex={0}
+              type="submit"
+            >
+              <div
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchStart={[Function]}
+              >
+                <div
+                  style={
+                    Object {
+                      "backgroundColor": false,
+                      "borderRadius": 2,
+                      "height": 50,
+                      "muiPrepared": true,
+                      "top": 0,
+                      "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#FFFFFF",
+                        "fontSize": 14,
+                        "fontWeight": 500,
+                        "letterSpacing": 0,
+                        "margin": 0,
+                        "muiPrepared": true,
+                        "opacity": 1,
+                        "paddingLeft": 16,
+                        "paddingRight": 16,
+                        "position": "relative",
+                        "textTransform": "uppercase",
+                        "userSelect": "none",
+                      }
+                    }
+                  >
+                    WOOOOOOAH
+                  </span>
+                </div>
+              </div>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="sc-hMqMXs iyuJlD"
+      >
+        <div
+          style={
+            Object {
+              "color": "#969696",
+              "fontSize": 9,
+              "lineHeight": 1.4,
+              "paddingTop": 20,
+            }
+          }
+        >
+          By choosing to continue, you acknowledge you have read and accept our
+          <a
+            href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+            style={
+              Object {
+                "color": "#1B75BB",
+                "marginLeft": 5,
+              }
+            }
+            target="_blank"
+          >
+            eService terms & conditions
+          </a>
+          .
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`Storyshots Registration Form with an error code 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "left",
+    }
+  }
+>
+  <form
+    noValidate={true}
+    onSubmit={[Function]}
+  >
+    <div
+      style={
+        Object {
+          "fontSize": 12,
+          "marginBottom": 5,
+          "paddingLeft": 2,
+        }
+      }
+    >
+      Already have an account?  
+      <a
+        className="sc-dxgOiQ dJhdWC"
+        href="http://www.google.com"
+      >
+        Sign In
+      </a>
+    </div>
+    <div
+      className={undefined}
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "border": "solid 1px #808080",
+          "borderRadius": "3px",
+          "cursor": "not-allowed",
+          "display": "inline-block",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": 16,
+          "height": 50,
+          "lineHeight": "24px",
+          "margin": "5px 0px",
+          "muiPrepared": true,
+          "padding": "0px 10px",
+          "position": "relative",
+          "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+          "width": "95%",
+        }
+      }
+    >
+      <label
+        className={undefined}
+        htmlFor="emailAddress"
+        onTouchTap={undefined}
+        style={
+          Object {
+            "color": "#808080",
+            "fontSize": 12,
+            "lineHeight": "22px",
+            "muiPrepared": true,
+            "pointerEvents": "none",
+            "position": "absolute",
+            "top": 30,
+            "transform": "scale(0.75) translate(0, -28px)",
+            "transformOrigin": "left top",
+            "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "userSelect": "none",
+            "zIndex": 1,
+          }
+        }
+      >
+        Email Address
+      </label>
+      <input
+        disabled={true}
+        id="emailAddress"
+        name="emailAddress"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        required={true}
+        style={
+          Object {
+            "WebkitOpacity": 1,
+            "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+            "appearance": "textfield",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "border": "none",
+            "boxSizing": "border-box",
+            "color": "#404040",
+            "cursor": "inherit",
+            "font": "inherit",
+            "fontSize": 15,
+            "height": "100%",
+            "marginTop": 10,
+            "muiPrepared": true,
+            "outline": "none",
+            "padding": 0,
+            "position": "relative",
+            "width": "100%",
+          }
+        }
+        type="text"
+        value="foo@bar.com"
+      />
+    </div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+        }
+      }
+    >
+      <div>
+        <div
+          className={undefined}
+          style={
+            Object {
+              "backgroundColor": "transparent",
+              "border": "solid 1px #808080",
+              "borderRadius": "3px",
+              "cursor": "auto",
+              "display": "inline-block",
+              "fontFamily": "Roboto, sans-serif",
+              "fontSize": 16,
+              "height": 50,
+              "lineHeight": "24px",
+              "margin": "5px 0px",
+              "muiPrepared": true,
+              "padding": "0px 10px",
+              "position": "relative",
+              "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+              "width": "95%",
+            }
+          }
+        >
+          <label
+            className={undefined}
+            htmlFor="password"
+            onTouchTap={undefined}
+            style={
+              Object {
+                "color": "#808080",
+                "fontSize": 15,
+                "lineHeight": "22px",
+                "muiPrepared": true,
+                "pointerEvents": "none",
+                "position": "absolute",
+                "top": 15,
+                "transform": "scale(1) translate(0, 0)",
+                "transformOrigin": "left top",
+                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                "userSelect": "none",
+                "zIndex": 1,
+              }
+            }
+          >
+            Create Password
+          </label>
+          <input
+            disabled={false}
+            id="password"
+            name="password"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyPress={[Function]}
+            required={true}
+            style={
+              Object {
+                "WebkitOpacity": 1,
+                "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                "appearance": "textfield",
+                "backgroundColor": "rgba(0,0,0,0)",
+                "border": "none",
+                "boxSizing": "border-box",
+                "color": "#404040",
+                "cursor": "inherit",
+                "font": "inherit",
+                "fontSize": 15,
+                "height": "100%",
+                "marginTop": 10,
+                "muiPrepared": true,
+                "outline": "none",
+                "padding": 0,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+            type="password"
+            value=""
+          />
+        </div>
+      </div>
+      <span
+        style={
+          Object {
+            "fontSize": 10,
+            "position": "absolute",
+            "right": 10,
+            "top": 17,
+          }
+        }
+      >
+        <a
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "#1B75BB",
+              "cursor": "pointer",
+            }
+          }
+        >
+          <span>
+            show
+          </span>
+        </a>
+      </span>
+    </div>
+    <div
+      className="formsyInput"
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "border": "solid 1px #808080",
+          "borderRadius": "3px",
+          "cursor": "auto",
+          "display": "inline-block",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": 16,
+          "height": 50,
+          "lineHeight": "24px",
+          "margin": "5px 0px",
+          "muiPrepared": true,
+          "padding": "0px 10px",
+          "position": "relative",
+          "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+          "width": "95%",
+        }
+      }
+    >
+      <label
+        className={undefined}
+        htmlFor="dateOfBirth"
+        onTouchTap={undefined}
+        style={
+          Object {
+            "color": "#808080",
+            "fontSize": 12,
+            "lineHeight": "22px",
+            "muiPrepared": true,
+            "pointerEvents": "none",
+            "position": "absolute",
+            "top": 30,
+            "transform": "scale(0.75) translate(0, -28px)",
+            "transformOrigin": "left top",
+            "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "userSelect": "none",
+            "zIndex": 1,
+          }
+        }
+      >
+        Date of Birth
+      </label>
+      <input
+        disabled={false}
+        id="dateOfBirth"
+        name="dateOfBirth"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        required={true}
+        style={
+          Object {
+            "WebkitOpacity": 1,
+            "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+            "appearance": "textfield",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "border": "none",
+            "boxSizing": "border-box",
+            "color": "#404040",
+            "cursor": "inherit",
+            "font": "inherit",
+            "fontSize": 15,
+            "height": "100%",
+            "marginTop": 10,
+            "muiPrepared": true,
+            "outline": "none",
+            "padding": 0,
+            "position": "relative",
+            "width": "100%",
+          }
+        }
+        type="date"
+        value=""
+      />
+    </div>
+    <div
+      style={
+        Object {
+          "display": "inline-block",
+          "height": 0,
+          "margin": "5px 0px",
+          "padding": "0px 10px",
+          "width": "95%",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "border": "solid 1px #E00720",
+            "borderRadius": "3px",
+            "bottom": 15,
+            "color": "#E00720",
+            "display": "inline-block",
+            "fontSize": 12,
+            "lineHeight": "1.5",
+            "marginLeft": "-10px",
+            "marginRight": "-10px",
+            "marginTop": "10px",
+            "padding": "10px",
+            "position": "relative",
+            "width": "100%",
+          }
+        }
+      >
+        <div>
+          <div>
+            We see you may already have an online account.
+          </div>
+          <div>
+            Please 
+            <a
+              className="sc-dxgOiQ dJhdWC"
+              href="https://uat-service.libertymutual.com/PmInternetContentServiceWeb/insurance/url?uri=esign"
+              id="already-registered-sign-in-link"
+            >
+              Sign In
+            </a>
+             to continue.
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="clearfix"
+    >
+      <div
+        className="sc-jKJlTe fVrGLJ"
+      >
+        <div
+          style={
+            Object {
+              "paddingTop": 10,
+            }
+          }
+        >
+          <div
+            className={undefined}
+            style={
+              Object {
+                "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                "backgroundColor": "#ffffff",
+                "borderRadius": 2,
+                "boxShadow": "0 1px 6px rgba(0, 0, 0, 0.12),
+         0 1px 4px rgba(0, 0, 0, 0.12)",
+                "boxSizing": "border-box",
+                "color": "rgba(0, 0, 0, 0.87)",
+                "display": "inline-block",
+                "fontFamily": "Roboto, sans-serif",
+                "height": 50,
+                "minWidth": 88,
+                "muiPrepared": true,
+                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                "width": "100%",
+              }
+            }
+          >
+            <button
+              disabled={false}
+              href={undefined}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchStart={[Function]}
+              onTouchTap={[Function]}
+              style={
+                Object {
+                  "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                  "backgroundColor": "#EC8900",
+                  "border": 10,
+                  "borderRadius": 2,
+                  "boxSizing": "border-box",
+                  "cursor": "pointer",
+                  "display": "inline-block",
+                  "fontFamily": "Roboto, sans-serif",
+                  "fontSize": "inherit",
+                  "fontWeight": "inherit",
+                  "height": 50,
+                  "lineHeight": "50px",
+                  "margin": 0,
+                  "muiPrepared": true,
+                  "outline": "none",
+                  "padding": 0,
+                  "position": "relative",
+                  "textAlign": "center",
+                  "textDecoration": "none",
+                  "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                  "verticalAlign": null,
+                  "width": "100%",
+                  "zIndex": 1,
+                }
+              }
+              tabIndex={0}
+              type="submit"
+            >
+              <div
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchStart={[Function]}
+              >
+                <div
+                  style={
+                    Object {
+                      "backgroundColor": false,
+                      "borderRadius": 2,
+                      "height": 50,
+                      "muiPrepared": true,
+                      "top": 0,
+                      "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#FFFFFF",
+                        "fontSize": 14,
+                        "fontWeight": 500,
+                        "letterSpacing": 0,
+                        "margin": 0,
+                        "muiPrepared": true,
+                        "opacity": 1,
+                        "paddingLeft": 16,
+                        "paddingRight": 16,
+                        "position": "relative",
+                        "textTransform": "uppercase",
+                        "userSelect": "none",
+                      }
+                    }
+                  >
+                    Submit
+                  </span>
+                </div>
+              </div>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="sc-hMqMXs iyuJlD"
+      >
+        <div
+          style={
+            Object {
+              "color": "#969696",
+              "fontSize": 9,
+              "lineHeight": 1.4,
+              "paddingTop": 20,
+            }
+          }
+        >
+          By choosing to continue, you acknowledge you have read and accept our
+          <a
+            href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+            style={
+              Object {
+                "color": "#1B75BB",
+                "marginLeft": 5,
+              }
+            }
+            target="_blank"
+          >
+            eService terms & conditions
+          </a>
+          .
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`Storyshots Registration Form with disabled fields 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "left",
+    }
+  }
+>
+  <form
+    noValidate={true}
+    onSubmit={[Function]}
+  >
+    <div
+      style={
+        Object {
+          "fontSize": 12,
+          "marginBottom": 5,
+          "paddingLeft": 2,
+        }
+      }
+    >
+      Already have an account?  
+      <a
+        className="sc-dxgOiQ dJhdWC"
+        href="http://www.google.com"
+      >
+        Sign In
+      </a>
+    </div>
+    <div
+      className={undefined}
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "border": "solid 1px #808080",
+          "borderRadius": "3px",
+          "cursor": "not-allowed",
+          "display": "inline-block",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": 16,
+          "height": 50,
+          "lineHeight": "24px",
+          "margin": "5px 0px",
+          "muiPrepared": true,
+          "padding": "0px 10px",
+          "position": "relative",
+          "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+          "width": "95%",
+        }
+      }
+    >
+      <label
+        className={undefined}
+        htmlFor="emailAddress"
+        onTouchTap={undefined}
+        style={
+          Object {
+            "color": "#808080",
+            "fontSize": 12,
+            "lineHeight": "22px",
+            "muiPrepared": true,
+            "pointerEvents": "none",
+            "position": "absolute",
+            "top": 30,
+            "transform": "scale(0.75) translate(0, -28px)",
+            "transformOrigin": "left top",
+            "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "userSelect": "none",
+            "zIndex": 1,
+          }
+        }
+      >
+        Email Address
+      </label>
+      <input
+        disabled={true}
+        id="emailAddress"
+        name="emailAddress"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        required={true}
+        style={
+          Object {
+            "WebkitOpacity": 1,
+            "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+            "appearance": "textfield",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "border": "none",
+            "boxSizing": "border-box",
+            "color": "#404040",
+            "cursor": "inherit",
+            "font": "inherit",
+            "fontSize": 15,
+            "height": "100%",
+            "marginTop": 10,
+            "muiPrepared": true,
+            "outline": "none",
+            "padding": 0,
+            "position": "relative",
+            "width": "100%",
+          }
+        }
+        type="text"
+        value="foo@bar.com"
+      />
+    </div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+        }
+      }
+    >
+      <div>
+        <div
+          className={undefined}
+          style={
+            Object {
+              "backgroundColor": "transparent",
+              "border": "solid 1px #808080",
+              "borderRadius": "3px",
+              "cursor": "not-allowed",
+              "display": "inline-block",
+              "fontFamily": "Roboto, sans-serif",
+              "fontSize": 16,
+              "height": 50,
+              "lineHeight": "24px",
+              "margin": "5px 0px",
+              "muiPrepared": true,
+              "padding": "0px 10px",
+              "position": "relative",
+              "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+              "width": "95%",
+            }
+          }
+        >
+          <label
+            className={undefined}
+            htmlFor="password"
+            onTouchTap={undefined}
+            style={
+              Object {
+                "color": "#808080",
+                "fontSize": 15,
+                "lineHeight": "22px",
+                "muiPrepared": true,
+                "pointerEvents": "none",
+                "position": "absolute",
+                "top": 15,
+                "transform": "scale(1) translate(0, 0)",
+                "transformOrigin": "left top",
+                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                "userSelect": "none",
+                "zIndex": 1,
+              }
+            }
+          >
+            Create Password
+          </label>
+          <input
+            disabled={true}
+            id="password"
+            name="password"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyPress={[Function]}
+            required={true}
+            style={
+              Object {
+                "WebkitOpacity": 1,
+                "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                "appearance": "textfield",
+                "backgroundColor": "rgba(0,0,0,0)",
+                "border": "none",
+                "boxSizing": "border-box",
+                "color": "#404040",
+                "cursor": "inherit",
+                "font": "inherit",
+                "fontSize": 15,
+                "height": "100%",
+                "marginTop": 10,
+                "muiPrepared": true,
+                "outline": "none",
+                "padding": 0,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+            type="password"
+            value=""
+          />
+        </div>
+      </div>
+      <span
+        style={
+          Object {
+            "fontSize": 10,
+            "position": "absolute",
+            "right": 10,
+            "top": 17,
+          }
+        }
+      >
+        <a
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "#1B75BB",
+              "cursor": "pointer",
+            }
+          }
+        >
+          <span>
+            show
+          </span>
+        </a>
+      </span>
+    </div>
+    <div
+      className="formsyInput"
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "border": "solid 1px #808080",
+          "borderRadius": "3px",
+          "cursor": "not-allowed",
+          "display": "inline-block",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": 16,
+          "height": 50,
+          "lineHeight": "24px",
+          "margin": "5px 0px",
+          "muiPrepared": true,
+          "padding": "0px 10px",
+          "position": "relative",
+          "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+          "width": "95%",
+        }
+      }
+    >
+      <label
+        className={undefined}
+        htmlFor="dateOfBirth"
+        onTouchTap={undefined}
+        style={
+          Object {
+            "color": "#808080",
+            "fontSize": 12,
+            "lineHeight": "22px",
+            "muiPrepared": true,
+            "pointerEvents": "none",
+            "position": "absolute",
+            "top": 30,
+            "transform": "scale(0.75) translate(0, -28px)",
+            "transformOrigin": "left top",
+            "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            "userSelect": "none",
+            "zIndex": 1,
+          }
+        }
+      >
+        Date of Birth
+      </label>
+      <input
+        disabled={true}
+        id="dateOfBirth"
+        name="dateOfBirth"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        required={true}
+        style={
+          Object {
+            "WebkitOpacity": 1,
+            "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+            "appearance": "textfield",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "border": "none",
+            "boxSizing": "border-box",
+            "color": "#404040",
+            "cursor": "inherit",
+            "font": "inherit",
+            "fontSize": 15,
+            "height": "100%",
+            "marginTop": 10,
+            "muiPrepared": true,
+            "outline": "none",
+            "padding": 0,
+            "position": "relative",
+            "width": "100%",
+          }
+        }
+        type="date"
+        value=""
+      />
+    </div>
+    <div
+      className="clearfix"
+    >
+      <div
+        className="sc-jKJlTe fVrGLJ"
+      >
+        <div
+          style={
+            Object {
+              "paddingTop": 10,
+            }
+          }
+        >
+          <div
+            className={undefined}
+            style={
+              Object {
+                "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                "backgroundColor": "#ffffff",
+                "borderRadius": 2,
+                "boxShadow": "0 1px 6px rgba(0, 0, 0, 0.12),
+         0 1px 4px rgba(0, 0, 0, 0.12)",
+                "boxSizing": "border-box",
+                "color": "rgba(0, 0, 0, 0.87)",
+                "display": "inline-block",
+                "fontFamily": "Roboto, sans-serif",
+                "height": 50,
+                "minWidth": 88,
+                "muiPrepared": true,
+                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                "width": "100%",
+              }
+            }
+          >
+            <button
+              disabled={false}
+              href={undefined}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchStart={[Function]}
+              onTouchTap={[Function]}
+              style={
+                Object {
+                  "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                  "backgroundColor": "#EC8900",
+                  "border": 10,
+                  "borderRadius": 2,
+                  "boxSizing": "border-box",
+                  "cursor": "pointer",
+                  "display": "inline-block",
+                  "fontFamily": "Roboto, sans-serif",
+                  "fontSize": "inherit",
+                  "fontWeight": "inherit",
+                  "height": 50,
+                  "lineHeight": "50px",
+                  "margin": 0,
+                  "muiPrepared": true,
+                  "outline": "none",
+                  "padding": 0,
+                  "position": "relative",
+                  "textAlign": "center",
+                  "textDecoration": "none",
+                  "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                  "verticalAlign": null,
+                  "width": "100%",
+                  "zIndex": 1,
+                }
+              }
+              tabIndex={0}
+              type="submit"
+            >
+              <div
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchStart={[Function]}
+              >
+                <div
+                  style={
+                    Object {
+                      "backgroundColor": false,
+                      "borderRadius": 2,
+                      "height": 50,
+                      "muiPrepared": true,
+                      "top": 0,
+                      "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#FFFFFF",
+                        "fontSize": 14,
+                        "fontWeight": 500,
+                        "letterSpacing": 0,
+                        "margin": 0,
+                        "muiPrepared": true,
+                        "opacity": 1,
+                        "paddingLeft": 16,
+                        "paddingRight": 16,
+                        "position": "relative",
+                        "textTransform": "uppercase",
+                        "userSelect": "none",
+                      }
+                    }
+                  >
+                    Submit
+                  </span>
+                </div>
+              </div>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="sc-hMqMXs iyuJlD"
+      >
+        <div
+          style={
+            Object {
+              "color": "#969696",
+              "fontSize": 9,
+              "lineHeight": 1.4,
+              "paddingTop": 20,
+            }
+          }
+        >
+          By choosing to continue, you acknowledge you have read and accept our
+          <a
+            href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+            style={
+              Object {
+                "color": "#1B75BB",
+                "marginLeft": 5,
+              }
+            }
+            target="_blank"
+          >
+            eService terms & conditions
+          </a>
+          .
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`Storyshots RegistrationTokenError default 1`] = `
+<div
+  className="sc-ckVGcZ bqMpMp"
+>
+  We're Sorry!
+</div>
+`;
+
+exports[`Storyshots Span with a large basis 1`] = `
+<div
+  className="sc-htoDjs gvmWeW"
+>
+  <div
+    className="sc-eerKOB fZYCco"
+  >
+    TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
+  </div>
+</div>
+`;
+
+exports[`Storyshots Span with a large basis override 1`] = `
+<div
+  className="sc-htoDjs gvmWeW"
+>
+  <div
+    className="sc-dymIpo fzlWqF"
+  >
+    TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
+  </div>
+</div>
+`;
+
+exports[`Storyshots Span with a medium basis override 1`] = `
+<div
+  className="sc-htoDjs gvmWeW"
+>
+  <div
+    className="sc-bnXvFD hBQnDt"
+  >
+    TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
+  </div>
+</div>
+`;
+
+exports[`Storyshots Span with a multi-level basis override 1`] = `
+<div
+  className="sc-htoDjs gvmWeW"
+>
+  <div
+    className="sc-jzgbtB haIqnY"
+  >
+    TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
+  </div>
+</div>
+`;
+
+exports[`Storyshots Span with a pre-defined height 1`] = `
+<div
+  className="sc-htoDjs gvmWeW"
+>
+  <div
+    className="sc-emmjRN bkVjzg"
+  >
+    TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
+  </div>
+</div>
+`;
+
+exports[`Storyshots Span with a pre-defined width 1`] = `
+<div
+  className="sc-htoDjs gvmWeW"
+>
+  <div
+    className="sc-cpmLhU hoGMcv"
+  >
+    TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
+  </div>
+</div>
+`;
+
+exports[`Storyshots Span with a small basis 1`] = `
+<div
+  className="sc-htoDjs gvmWeW"
+>
+  <div
+    className="sc-eilVRo eHdexh"
+  >
+    TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
+  </div>
+</div>
+`;
+
+exports[`Storyshots Span with a small basis override 1`] = `
+<div
+  className="sc-htoDjs gvmWeW"
+>
+  <div
+    className="sc-gFaPwZ hzHmvD"
+  >
+    TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
+  </div>
+</div>
+`;
+
+exports[`Storyshots Span with an extra-small basis override 1`] = `
+<div
+  className="sc-htoDjs gvmWeW"
+>
+  <div
+    className="sc-fhYwyz dUrxGm"
+  >
+    TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
+  </div>
+</div>
+`;
+
+exports[`Storyshots StatusSpan nothing if ceremony status does not exists in mapped UI status 1`] = `null`;
+
+exports[`Storyshots StatusSpan should display the UI status if ceremony status exists in mapped UI status 1`] = `
+<span>
+   -
+  <span
+    className="sc-Rmtcm jWxVvT"
+  >
+     
+    In Progress
+  </span>
+</span>
+`;
+
+exports[`Storyshots TreatmentA default 1`] = `
+<div
+  style={
+    Object {
+      "width": "100%",
+    }
+  }
+>
+  <h1
+    className="sc-caSCKo itbKyi"
+  >
+    Great job!
+  </h1>
+  <h2
+    className="sc-gisBJw fuUIks"
+  >
+    <img
+      className="sc-kjoXOD bVKeqB"
+      src="yellow-check.png"
+    />
+    You just bought a policy
+  </h2>
+  <p
+    className="sc-cHGsZl cILbJE"
+  >
+    Welcome to Liberty Mutual! We know your time is precious, that’s why we’re committed to getting you set up quickly and back to the life you love.
+  </p>
+  <h3
+    className="sc-kgAjT iFjxdR"
+  >
+    Here's what's next:
+  </h3>
+  <ul>
+    <li>
+      Create your account
+    </li>
+    <li>
+      Sign your forms
+    </li>
+    <li>
+      Get to know us - explore your account
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Storyshots View with color and no src image 1`] = `
+<div
+  className="sc-kvZOFW diwUNx"
+  src=""
+>
+  <div
+    className="sc-hqyNC kisMJq"
+  >
+    Non-production environment (localhost)
+  </div>
+</div>
+`;
+
+exports[`Storyshots View with color and src image 1`] = `
+<div
+  className="sc-jbKcbu pyOYz"
+  src="welcome_background.jpg"
+>
+  <div
+    className="sc-dNLxif jEbHdE"
+  >
+    Non-production environment (localhost)
+  </div>
+</div>
+`;
+
+exports[`Storyshots View with no src image and no color 1`] = `
+<div
+  className="sc-cJSrbW gnfQXK"
+  src=""
+>
+  <div
+    className="sc-ksYbfQ ilmLRu"
+  >
+    Non-production environment (localhost)
+  </div>
+</div>
+`;
+
+exports[`Storyshots View with src image and no color 1`] = `
+<div
+  className="sc-hmzhuo bLYSJd"
+  src="welcome_background.jpg"
+>
+  <div
+    className="sc-frDJqD bnaohZ"
+  >
+    Non-production environment (localhost)
+  </div>
+</div>
+`;
+
+exports[`Storyshots Welcome with a token that triggers Welcome base 1`] = `
+<div>
+  <div
+    className="sc-kfGgVZ ksPPSn"
+    src="welcome_background.jpg"
+  >
+    <div
+      className="sc-esjQYD bpklfv"
+    >
+      Non-production environment (localhost)
+    </div>
+    <div
+      className="sc-gzVnrw jDnyUy"
+    >
+      <div
+        className="sc-kIPQKe gDmxYd"
+      />
+      <div
+        className="sc-htoDjs gvmWeW"
+      >
+        <div
+          className="sc-eXEjpC gqYTZY"
+        />
+        <div
+          className="sc-gzVnrw jDnyUy"
+        >
+          <img
+            className="sc-ibxdXY fjhBQO"
+            src="LMI-logo.png"
+          />
+          <div
+            className="sc-RefOD gPdoDd"
+          >
+            <div
+              style={
+                Object {
+                  "width": "100%",
+                }
+              }
+            >
+              <h1
+                className="sc-caSCKo itbKyi"
+              >
+                Awesome job!
+              </h1>
+              <h2
+                className="sc-gisBJw fuUIks"
+              >
+                <img
+                  className="sc-kjoXOD bVKeqB"
+                  src="yellow-check.png"
+                />
+                You just bought a policy
+              </h2>
+              <p
+                className="sc-cHGsZl cILbJE"
+              >
+                We know better insurance starts with great first impressions. That’s why we’re committed to helping you every step of the way and to ensuring we’re providing the best experience possible.
+              </p>
+              <p
+                className="sc-cHGsZl cILbJE"
+              >
+                We want to sincerely thank you for choosing Liberty Mutual and warmly welcome you to the family.
+              </p>
+              <h3
+                className="sc-TOsTZ ezzMjT"
+              >
+                Time to make it official!
+              </h3>
+            </div>
+            <a
+              href="https://uat-service.libertymutual.com/PmInternetContentServiceWeb/url?"
+            >
+              <button
+                className="sc-bdVaJa cIRlVh"
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": "Let's get started &nbsp;»",
+                  }
+                }
+                data-heap-id="1405df66cbe219b0bf6355bc3d60361a8376b6b4"
+                onClick={[Function]}
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="sc-iQKALj hZNQwu"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Welcome with a token that triggers Welcome treatment A 1`] = `
+<div>
+  <div
+    className="sc-bwCtUz bsKiMl"
+    src="welcome_background.jpg"
+  >
+    <div
+      className="sc-hrWEMg cVGZTa"
+    >
+      Non-production environment (localhost)
+    </div>
+    <div
+      className="sc-gzVnrw jDnyUy"
+    >
+      <div
+        className="sc-eTuwsz hrcMjv"
+      />
+      <div
+        className="sc-htoDjs gvmWeW"
+      >
+        <div
+          className="sc-gwVKww bMUFEq"
+        />
+        <div
+          className="sc-gzVnrw jDnyUy"
+        >
+          <img
+            className="sc-hXRMBi bxZCWp"
+            src="LMI-logo.png"
+          />
+          <div
+            className="sc-epnACN cHpcwo"
+          >
+            <div
+              style={
+                Object {
+                  "width": "100%",
+                }
+              }
+            >
+              <h1
+                className="sc-caSCKo itbKyi"
+              >
+                Great job!
+              </h1>
+              <h2
+                className="sc-gisBJw fuUIks"
+              >
+                <img
+                  className="sc-kjoXOD bVKeqB"
+                  src="yellow-check.png"
+                />
+                You just bought a policy
+              </h2>
+              <p
+                className="sc-cHGsZl cILbJE"
+              >
+                Welcome to Liberty Mutual! We know your time is precious, that’s why we’re committed to getting you set up quickly and back to the life you love.
+              </p>
+              <h3
+                className="sc-kgAjT iFjxdR"
+              >
+                Here's what's next:
+              </h3>
+              <ul>
+                <li>
+                  Create your account
+                </li>
+                <li>
+                  Sign your forms
+                </li>
+                <li>
+                  Get to know us - explore your account
+                </li>
+              </ul>
+            </div>
+            <a
+              href="https://uat-service.libertymutual.com/PmInternetContentServiceWeb/url?"
+            >
+              <button
+                className="sc-bdVaJa cIRlVh"
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": "Get Started &nbsp;»",
+                  }
+                }
+                data-heap-id="86f7e437faa5a7fce15d1ddcb9eaeaea377667b8"
+                onClick={[Function]}
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="sc-iQNlJl djMezw"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Welcome with a token that will take users to /registration 1`] = `
+<div>
+  <div
+    className="sc-cLQEGU doNcWC"
+    src="welcome_background.jpg"
+  >
+    <div
+      className="sc-gqPbQI gqSPiJ"
+    >
+      Non-production environment (localhost)
+    </div>
+    <div
+      className="sc-gzVnrw jDnyUy"
+    >
+      <div
+        className="sc-hORach iPILEW"
+      />
+      <div
+        className="sc-htoDjs gvmWeW"
+      >
+        <div
+          className="sc-bMVAic edBuSQ"
+        />
+        <div
+          className="sc-gzVnrw jDnyUy"
+        >
+          <img
+            className="sc-bAeIUo BptRk"
+            src="LMI-logo.png"
+          />
+          <div
+            className="sc-iujRgT fNUhGv"
+          >
+            <div
+              style={
+                Object {
+                  "width": "100%",
+                }
+              }
+            >
+              <h1
+                className="sc-caSCKo itbKyi"
+              >
+                Awesome job!
+              </h1>
+              <h2
+                className="sc-gisBJw fuUIks"
+              >
+                <img
+                  className="sc-kjoXOD bVKeqB"
+                  src="yellow-check.png"
+                />
+                You just bought a policy
+              </h2>
+              <p
+                className="sc-cHGsZl cILbJE"
+              >
+                We know better insurance starts with great first impressions. That’s why we’re committed to helping you every step of the way and to ensuring we’re providing the best experience possible.
+              </p>
+              <p
+                className="sc-cHGsZl cILbJE"
+              >
+                We want to sincerely thank you for choosing Liberty Mutual and warmly welcome you to the family.
+              </p>
+              <h3
+                className="sc-TOsTZ ezzMjT"
+              >
+                Time to make it official!
+              </h3>
+            </div>
+            <a
+              href="/registration"
+              onClick={[Function]}
+            >
+              <button
+                className="sc-bdVaJa cIRlVh"
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": "Let's get started &nbsp;»",
+                  }
+                }
+                data-heap-id="1405df66cbe219b0bf6355bc3d60361a8376b6b4"
+                onClick={[Function]}
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="sc-GMQeP dlzxeU"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Welcome with a token that will take users to Yellow Box 1`] = `
+<div>
+  <div
+    className="sc-bsbRJL irCyYn"
+    src="welcome_background.jpg"
+  >
+    <div
+      className="sc-hZSUBg gbdOro"
+    >
+      Non-production environment (localhost)
+    </div>
+    <div
+      className="sc-gzVnrw jDnyUy"
+    >
+      <div
+        className="sc-cMhqgX gacuoP"
+      />
+      <div
+        className="sc-htoDjs gvmWeW"
+      >
+        <div
+          className="sc-iuJeZd gMsCYM"
+        />
+        <div
+          className="sc-gzVnrw jDnyUy"
+        >
+          <img
+            className="sc-esOvli iznssz"
+            src="LMI-logo.png"
+          />
+          <div
+            className="sc-cmthru blZYlj"
+          >
+            <div
+              style={
+                Object {
+                  "width": "100%",
+                }
+              }
+            >
+              <h1
+                className="sc-caSCKo itbKyi"
+              >
+                Awesome job!
+              </h1>
+              <h2
+                className="sc-gisBJw fuUIks"
+              >
+                <img
+                  className="sc-kjoXOD bVKeqB"
+                  src="yellow-check.png"
+                />
+                You just bought a policy
+              </h2>
+              <p
+                className="sc-cHGsZl cILbJE"
+              >
+                We know better insurance starts with great first impressions. That’s why we’re committed to helping you every step of the way and to ensuring we’re providing the best experience possible.
+              </p>
+              <p
+                className="sc-cHGsZl cILbJE"
+              >
+                We want to sincerely thank you for choosing Liberty Mutual and warmly welcome you to the family.
+              </p>
+              <h3
+                className="sc-TOsTZ ezzMjT"
+              >
+                Time to make it official!
+              </h3>
+            </div>
+            <a
+              href="https://uat-service.libertymutual.com/PmInternetContentServiceWeb/url?"
+            >
+              <button
+                className="sc-bdVaJa cIRlVh"
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": "Let's get started &nbsp;»",
+                  }
+                }
+                data-heap-id="1405df66cbe219b0bf6355bc3d60361a8376b6b4"
+                onClick={[Function]}
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="sc-hMFtBS ljJobG"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Welcome with no token 1`] = `
+<div>
+  <div
+    className="sc-dqBHgY eYhWEr"
+    src="welcome_background.jpg"
+  >
+    <div
+      className="sc-gxMtzJ cLvPSt"
+    >
+      Non-production environment (localhost)
+    </div>
+    <div
+      className="sc-gzVnrw jDnyUy"
+    >
+      <div
+        className="sc-dfVpRl fUXsfN"
+      />
+      <div
+        className="sc-htoDjs gvmWeW"
+      >
+        <div
+          className="sc-gzOgki cfsijc"
+        />
+        <div
+          className="sc-gzVnrw jDnyUy"
+        >
+          <img
+            className="sc-iyvyFf gNmOxA"
+            src="LMI-logo.png"
+          />
+          <div
+            className="sc-hwwEjo fBGcod"
+          >
+            <div
+              style={
+                Object {
+                  "width": "100%",
+                }
+              }
+            >
+              <h1
+                className="sc-caSCKo itbKyi"
+              >
+                Awesome job!
+              </h1>
+              <h2
+                className="sc-gisBJw fuUIks"
+              >
+                <img
+                  className="sc-kjoXOD bVKeqB"
+                  src="yellow-check.png"
+                />
+                You just bought a policy
+              </h2>
+              <p
+                className="sc-cHGsZl cILbJE"
+              >
+                We know better insurance starts with great first impressions. That’s why we’re committed to helping you every step of the way and to ensuring we’re providing the best experience possible.
+              </p>
+              <p
+                className="sc-cHGsZl cILbJE"
+              >
+                We want to sincerely thank you for choosing Liberty Mutual and warmly welcome you to the family.
+              </p>
+              <h3
+                className="sc-TOsTZ ezzMjT"
+              >
+                Time to make it official!
+              </h3>
+            </div>
+            <a
+              href="https://uat-service.libertymutual.com/PmInternetContentServiceWeb/url?"
+            >
+              <button
+                className="sc-bdVaJa cIRlVh"
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": "Let's get started &nbsp;»",
+                  }
+                }
+                data-heap-id="1405df66cbe219b0bf6355bc3d60361a8376b6b4"
+                onClick={[Function]}
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          className="sc-kPVwWT gcCGnn"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots eSign Loading View While loading 1`] = `
+<div
+  className="sc-cIShpX ejYNsx"
+  src=""
+>
+  <div
+    className="sc-kafWEX adQGg"
+  >
+    Non-production environment (localhost)
+  </div>
+  <div
+    className="sc-htpNat hVhLFx"
+  >
+    <div
+      className="sc-bxivhb gthmdb"
+    >
+      <img
+        className="sc-feJyhm gydUbY"
+        src="LMI-logo.png"
+      />
+    </div>
+  </div>
+  <div
+    className="sc-EHOje fDHsUg"
+  >
+    <h1
+      className="sc-bZQynM fryhpG"
+    >
+      Sign your documents in a few simple steps
+    </h1>
+    <div
+      className="sc-iELTvK kLoweC"
+    >
+      <div
+        className="sc-ckVGcZ bqMpMp"
+      >
+        Loading...
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-dnqmqq kAmxKY"
+  >
+    <div
+      className="sc-iwsKbI dxSJnn"
+    >
+      <a
+        className="sc-gZMcBi dahmGY"
+        href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138362980102"
+      >
+        Privacy Policy
+      </a>
+       | 
+      <a
+        className="sc-gZMcBi dahmGY"
+        href="http://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1240002784964"
+      >
+        Security Policy
+      </a>
+       | 
+      <a
+        className="sc-gZMcBi dahmGY"
+        href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366154501"
+      >
+        Terms & Conditions
+      </a>
+       | 
+      <a
+        className="sc-gZMcBi dahmGY"
+        href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366406840"
+      >
+        Fraud Protection
+      </a>
+       | 
+      <a
+        className="sc-gZMcBi dahmGY"
+        href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+      >
+        eService & Paperless Terms & Conditions
+      </a>
+    </div>
+    <div
+      className="sc-iwsKbI dxSJnn"
+    >
+      © 2017 Liberty Mutual Insurance Company, 175 Berkeley Street, Boston, MA 02116
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots eSign Loading View While not loading 1`] = `
+<div
+  className="sc-cmTdod bnYNuA"
+  src=""
+>
+  <div
+    className="sc-jwKygS fQpsnc"
+  >
+    Non-production environment (localhost)
+  </div>
+  <div
+    className="sc-htpNat hVhLFx"
+  >
+    <div
+      className="sc-bxivhb gthmdb"
+    >
+      <img
+        className="sc-btzYZH boGoRm"
+        src="LMI-logo.png"
+      />
+    </div>
+  </div>
+  <div
+    className="sc-EHOje fDHsUg"
+  >
+    <h1
+      className="sc-bZQynM fryhpG"
+    >
+      Sign your documents in a few simple steps
+    </h1>
+    <div
+      className="sc-lhVmIH fLDcWq"
+    >
+      <div
+        className="sc-hzDkRC lpohSz"
+      >
+        <h2
+          className="sc-jhAzac eHHsRQ"
+        >
+          Here's what to expect:
+        </h2>
+        <ul
+          className="sc-fAjcbJ crgFPz"
+        >
+          <span>
+            <li
+              className="sc-eqIVtm bOGerh"
+            >
+              <span>
+                You have 
+                <strong>
+                  1
+                </strong>
+                 
+                document
+                 to sign in total
+              </span>
+            </li>
+            <li
+              className="sc-eqIVtm bOGerh"
+            >
+              <span>
+                You have 
+                <strong>
+                  1
+                </strong>
+                 
+                document
+                 to print, sign, and mail
+              </span>
+            </li>
+          </span>
+          <li
+            className="sc-eqIVtm bOGerh"
+          >
+            <span>
+              All policy holders will have to sign
+            </span>
+          </li>
+        </ul>
+        <div
+          className="sc-ifAKCX Yggjp"
+        >
+          By continuing you acknowledge to have read, understood, and agreed to the 
+          <a
+            className="sc-dVhcbM dheItL"
+            href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            eSignature and Paperless Policy Terms & Conditions.
+          </a>
+        </div>
+        <button
+          className="sc-bRBYWo gwDiwx"
+          disabled={false}
+          onClick={[Function]}
+        >
+          AGREE & CONTINUE
+        </button>
+        <img
+          className="sc-fBuWsC jPqqbp"
+          src="town-drawing-white-background.png"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-dnqmqq kAmxKY"
+  >
+    <div
+      className="sc-iwsKbI dxSJnn"
+    >
+      <a
+        className="sc-gZMcBi dahmGY"
+        href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138362980102"
+      >
+        Privacy Policy
+      </a>
+       | 
+      <a
+        className="sc-gZMcBi dahmGY"
+        href="http://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1240002784964"
+      >
+        Security Policy
+      </a>
+       | 
+      <a
+        className="sc-gZMcBi dahmGY"
+        href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366154501"
+      >
+        Terms & Conditions
+      </a>
+       | 
+      <a
+        className="sc-gZMcBi dahmGY"
+        href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366406840"
+      >
+        Fraud Protection
+      </a>
+       | 
+      <a
+        className="sc-gZMcBi dahmGY"
+        href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+      >
+        eService & Paperless Terms & Conditions
+      </a>
+    </div>
+    <div
+      className="sc-iwsKbI dxSJnn"
+    >
+      © 2017 Liberty Mutual Insurance Company, 175 Berkeley Street, Boston, MA 02116
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots eSign Loading View with error message 1`] = `
+<div
+  className="sc-bYSBpT gezeRB"
+  src=""
+>
+  <div
+    className="sc-elJkPf dZpRAu"
+  >
+    Non-production environment (localhost)
+  </div>
+  <div
+    className="sc-htpNat hVhLFx"
+  >
+    <div
+      className="sc-bxivhb gthmdb"
+    >
+      <img
+        className="sc-jtRfpW eYampN"
+        src="LMI-logo.png"
+      />
+    </div>
+  </div>
+  <div
+    className="sc-EHOje fDHsUg"
+  >
+    <h1
+      className="sc-bZQynM fryhpG"
+    >
+      Sign your documents in a few simple steps
+    </h1>
+    <div
+      className="sc-kTUwUJ hlhtJz"
+    >
+      <div
+        className="sc-bwzfXH cIHJxn"
+      >
+        <div
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "Good news! It looks like you’re caught up, you have no documents to sign!
+  <br> To view information on your policies, please go to <b>Policies</b> within your online account.",
+            }
+          }
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-dnqmqq kAmxKY"
+  >
+    <div
+      className="sc-iwsKbI dxSJnn"
+    >
+      <a
+        className="sc-gZMcBi dahmGY"
+        href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138362980102"
+      >
+        Privacy Policy
+      </a>
+       | 
+      <a
+        className="sc-gZMcBi dahmGY"
+        href="http://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1240002784964"
+      >
+        Security Policy
+      </a>
+       | 
+      <a
+        className="sc-gZMcBi dahmGY"
+        href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366154501"
+      >
+        Terms & Conditions
+      </a>
+       | 
+      <a
+        className="sc-gZMcBi dahmGY"
+        href="https://www.libertymutualgroup.com/omapps/ContentServer?pagename=LMGroup/Views/lmgDisclosure&cid=1138366406840"
+      >
+        Fraud Protection
+      </a>
+       | 
+      <a
+        className="sc-gZMcBi dahmGY"
+        href="http://public.libertymutual-cdn.com/PmEService/MediaAssets/pages/terms-and-conditions-enrollment.html"
+      >
+        eService & Paperless Terms & Conditions
+      </a>
+    </div>
+    <div
+      className="sc-iwsKbI dxSJnn"
+    >
+      © 2017 Liberty Mutual Insurance Company, 175 Berkeley Street, Boston, MA 02116
+    </div>
+  </div>
+</div>
+`;
